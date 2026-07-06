@@ -52,7 +52,7 @@ const ImagemInteligente = ({ pasta, nome, className}) => {
 const rotasIniciais = ["TOP", "JG", "MID", "ADC", "SUP"];
 
 export default function App() {
-  const [campeoes, setCampeoes] = useState([]);
+  const [campeoes, setCampeoes ] = useState([]);
   const [busca, setBusca] = useState("");
   const [campeaoFocado, setCampeaoFocado] = useState(null);
   const [rotaFocada, setRotaFocada] = useState("TOP");
