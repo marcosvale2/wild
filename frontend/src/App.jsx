@@ -21,7 +21,7 @@ const obterNomesDosItens = (texto) => {
 // ==========================================
 // COMPONENTE DE IMAGEM INTELIGENTE (Suporta jpg, png, webp)
 // ==========================================
-const ImagemInteligente = ({ pasta, nome, className }) => {
+const ImagemInteligente = ({ pasta, nome, className}) => {
   const extensoes = ['jpg', 'webp', 'png', 'jpeg'];
   const [tentativa, setTentativa] = useState(0);
 
