@@ -1,0 +1,5754 @@
+{
+  "aatrox": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "dash_avanco",
+      "cura",
+      "mobilidade",
+      "lutador",
+      "team_fight"
+    ]
+  },
+  "ahri": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "mobilidade",
+      "dash_avanco",
+      "dano_explosivo",
+      "CC",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "akali": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dash_avanco",
+      "dano_explosivo",
+      "mobilidade",
+      "invisibilidade_verdadeira",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "akshan": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "fragil",
+      "mobilidade",
+      "invisibilidade_verdadeira",
+      "assassino"
+    ]
+  },
+  "alistar": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "dash_avanco",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "ambessa": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dash_avanco",
+      "mobilidade",
+      "lutador",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "amumu": {
+    "rotas": [
+      "JG",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dash_avanco",
+      "dano_vida_maxima",
+      "CC",
+      "tank_vida",
+      "tank_armadura",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "annie": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "engaje",
+      "shild",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "ashe": {
+    "rotas": [
+      "ADC",
+      "SUP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "CC",
+      "poke",
+      "lentidao_pesada",
+      "fragil"
+    ]
+  },
+  "aurelion_sol": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "execucao",
+      "dano_vida_maxima",
+      "controle_zona",
+      "dash_avanco",
+      "team_fight",
+      "lentidao_pesada"
+    ]
+  },
+  "aurora": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "dano_vida_maxima",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "bardo": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "cura",
+      "mobilidade",
+      "poke",
+      "controle_zona",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "blitzcrank": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "engaje",
+      "shild"
+    ]
+  },
+  "brand": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_vida_maxima",
+      "dano_explosivo",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "braum": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "bloqueio_projetil",
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "dash_avanco",
+      "desengaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "caitlyn": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "dash_avanco",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "camille": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "shild",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "cho'gath": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "execucao",
+      "cura",
+      "controle_zona"
+    ]
+  },
+  "corki": {
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_verdadeiro",
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "poke",
+      "mobilidade",
+      "fragil"
+    ]
+  },
+  "darius": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "cura",
+      "execucao",
+      "lutador"
+    ]
+  },
+  "diana": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "assassino",
+      "dash_avanco",
+      "shild",
+      "engaje",
+      "fragil"
+    ]
+  },
+  "dr.mundo": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "cura",
+      "anti_cc",
+      "dano_vida_maxima"
+    ]
+  },
+  "draven": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "ekko": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "assassino",
+      "cura",
+      "shild",
+      "blink_teletransporte",
+      "CC",
+      "fragil"
+    ]
+  },
+  "evelynn": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "camuflagem",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "ezreal": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "mobilidade",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "fiddlesticks": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_explosivo",
+      "dano_vida_maxima",
+      "cura",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "fiora": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "evasao_ataque_basico",
+      "dano_vida_maxima",
+      "mobilidade",
+      "cura",
+      "dash_avanco",
+      "anti_cc",
+      "lutador"
+    ]
+  },
+  "fizz": {
+    "rotas": [
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "dash_avanco",
+      "inalvejavel",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "galio": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "provocacao_taunt",
+      "tank_armadura",
+      "anti_cc",
+      "engaje",
+      "dash_avanco",
+      "shild",
+      "global_semiglobal",
+      "team_fight"
+    ]
+  },
+  "garen": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "execucao",
+      "lutador"
+    ]
+  },
+  "gnar": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "mobilidade",
+      "tank_vida",
+      "CC",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "gragas": {
+    "rotas": [
+      "JG",
+      "TOP",
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "CC",
+      "cura",
+      "dash_avanco",
+      "engaje",
+      "desengaje",
+      "poke",
+      "tank_vida"
+    ]
+  },
+  "graves": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "tank_armadura",
+      "mobilidade",
+      "dash_avanco"
+    ]
+  },
+  "gwen": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "dash_avanco",
+      "inalvejavel",
+      "cura"
+    ]
+  },
+  "hecarim": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "engaje",
+      "dash_avanco",
+      "cura",
+      "lutador",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "heimerdinger": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "controle_zona",
+      "poke",
+      "fragil"
+    ]
+  },
+  "irelia": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "cura",
+      "lutador"
+    ]
+  },
+  "janna": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "cura",
+      "CC",
+      "desengaje",
+      "mobilidade",
+      "fragil"
+    ]
+  },
+  "jarvan_iv": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "engaje",
+      "CC",
+      "dash_avanco",
+      "shild",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "jax": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_armadura",
+      "evasao_ataque_basico",
+      "velocidade_ataque",
+      "mobilidade",
+      "inalvejavel",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "jayce": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "dash_avanco",
+      "dano_explosivo",
+      "mobilidade",
+      "lutador"
+    ]
+  },
+  "jhin": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dano_explosivo",
+      "CC",
+      "poke",
+      "fragil"
+    ]
+  },
+  "jinx": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kai'sa": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "shild",
+      "fragil"
+    ]
+  },
+  "kalista": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "engaje",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "karma": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "shild",
+      "cura",
+      "mobilidade",
+      "CC",
+      "fragil"
+    ]
+  },
+  "kassadin": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "assassino",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "katarina": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "assassino",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kayle": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "velocidade_ataque",
+      "cura",
+      "imortalidade",
+      "fragil"
+    ]
+  },
+  "kayn": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "inalvejavel",
+      "cura",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "dano_explosivo"
+    ]
+  },
+  "kennen": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "mobilidade",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kha'zix": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "assassino"
+    ]
+  },
+  "kindred": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "velocidade_ataque",
+      "mobilidade",
+      "imortalidade",
+      "fragil"
+    ]
+  },
+  "lee_sin": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "engaje",
+      "dash_avanco",
+      "shild",
+      "lutador"
+    ]
+  },
+  "leona": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "lillia": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_magico",
+      "dano_vida_maxima",
+      "mobilidade",
+      "CC",
+      "team_fight",
+      "poke",
+      "fragil"
+    ]
+  },
+  "lissandra": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "engaje",
+      "mobilidade",
+      "invulnerabilidade",
+      "team_fight",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "lucian": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dano_explosivo",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "lulu": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "CC",
+      "cura",
+      "velocidade_ataque",
+      "desengaje"
+    ]
+  },
+  "lux": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "shild",
+      "poke",
+      "fragil"
+    ]
+  },
+  "malphite": {
+    "rotas": [
+      "TOP",
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "tank_vida",
+      "CC",
+      "engaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "maokai": {
+    "rotas": [
+      "JG",
+      "SUP",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "cura",
+      "engaje",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "master_yi": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "inalvejavel",
+      "cura"
+    ]
+  },
+  "miss_fortune": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "poke",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "milio": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "cura",
+      "anti_cc",
+      "poke",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "mordekaiser": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "shild",
+      "cura",
+      "lutador"
+    ]
+  },
+  "morgana": {
+    "rotas": [
+      "SUP",
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "anti_cc",
+      "shild",
+      "controle_zona",
+      "poke",
+      "fragil"
+    ]
+  },
+  "nami": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "CC",
+      "poke",
+      "engaje",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "nasus": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "cura",
+      "reduz_armadura",
+      "lutador"
+    ]
+  },
+  "nautilus": {
+    "rotas": [
+      "SUP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "shild",
+      "setup",
+      "team_fight"
+    ]
+  },
+  "nilah": {
+    "rotas": [
+      "ADC",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "cura",
+      "dash_avanco",
+      "mobilidade",
+      "evasao_ataque_basico",
+      "inalvejavel",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "nocturne": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "global_semiglobal",
+      "engaje",
+      "escudo_de_feitico",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "nunu_&_willump": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "cura",
+      "mobilidade",
+      "engaje",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "olaf": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "cura",
+      "anti_cc",
+      "lutador"
+    ]
+  },
+  "orianna": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "controle_zona",
+      "shild",
+      "CC",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "ornn": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "team_fight"
+    ]
+  },
+  "pantheon": {
+    "rotas": [
+      "JG",
+      "MID",
+      "TOP",
+      "SUP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "bloqueio_projetil",
+      "engaje",
+      "inalvejavel",
+      "global_semiglobal",
+      "lutador"
+    ]
+  },
+  "poppy": {
+    "rotas": [
+      "JG",
+      "TOP",
+      "SUP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "anti_dash",
+      "tank_armadura",
+      "tank_vida",
+      "CC",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "desengaje",
+      "engaje"
+    ]
+  },
+  "pyke": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "camuflagem",
+      "CC",
+      "cura",
+      "execucao",
+      "assassino",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "rakan": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "CC",
+      "engaje",
+      "provocacao_taunt",
+      "shild",
+      "dash_avanco",
+      "cura",
+      "team_fight"
+    ]
+  },
+  "rammus": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "mobilidade",
+      "CC",
+      "provocacao_taunt",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "renekton": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "CC",
+      "dash_avanco",
+      "cura",
+      "lutador"
+    ]
+  },
+  "rengar": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "camuflagem",
+      "mobilidade",
+      "cura",
+      "dash_avanco",
+      "assassino"
+    ]
+  },
+  "riven": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "CC",
+      "shild",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "rumble": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "shild",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "ryze": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "global_semiglobal",
+      "fragil",
+      "dano_explosivo"
+    ]
+  },
+  "samira": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "cura",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "seraphine": {
+    "rotas": [
+      "SUP",
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "shild",
+      "cura",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "sett": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "shild",
+      "engaje",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "shen": {
+    "rotas": [
+      "TOP",
+      "SUP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "shild",
+      "evasao_ataque_basico",
+      "engaje",
+      "dash_avanco",
+      "provocacao_taunt",
+      "dano_vida_maxima",
+      "global_semiglobal",
+      "team_fight"
+    ]
+  },
+  "shyvana": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "mobilidade",
+      "lutador"
+    ]
+  },
+  "singed": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "mobilidade",
+      "CC",
+      "controle_zona"
+    ]
+  },
+  "sion": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "engaje",
+      "shild"
+    ]
+  },
+  "sivir": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "escudo_de_feitico",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "skarner": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "tank_armadura",
+      "mobilidade",
+      "engaje",
+      "shild"
+    ]
+  },
+  "sona": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "shild",
+      "mobilidade",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "soraka": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "CC",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "swain": {
+    "rotas": [
+      "MID",
+      "SUP",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "tank_vida",
+      "cura",
+      "CC",
+      "team_fight"
+    ]
+  },
+  "syndra": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "poke",
+      "fragil"
+    ]
+  },
+  "talon": {
+    "rotas": [
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "mobilidade",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "taliyah": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "anti_dash",
+      "controle_zona",
+      "mobilidade",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "thresh": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "tank_armadura",
+      "CC",
+      "tank_vida",
+      "engaje",
+      "desengaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "tristana": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "velocidade_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "tryndamere": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "cura",
+      "dash_avanco",
+      "mobilidade",
+      "imortalidade"
+    ]
+  },
+  "twisted_fate": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "poke",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "twitch": {
+    "rotas": [
+      "ADC",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "camuflagem",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "urgot": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "execucao",
+      "shild",
+      "lutador"
+    ]
+  },
+  "varus": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "dano_vida_maxima",
+      "CC",
+      "fragil"
+    ]
+  },
+  "vayne": {
+    "rotas": [
+      "ADC",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "fragil"
+    ]
+  },
+  "veigar": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "vex": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "mobilidade",
+      "engaje",
+      "shild",
+      "fragil"
+    ]
+  },
+  "vi": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "reduz_armadura",
+      "mobilidade",
+      "dash_avanco",
+      "engaje",
+      "shild"
+    ]
+  },
+  "viego": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "cura",
+      "dash_avanco",
+      "mobilidade",
+      "camuflagem",
+      "inalvejavel",
+      "lutador",
+      "team_fight"
+    ]
+  },
+  "viktor": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "CC",
+      "controle_zona",
+      "shild",
+      "fragil"
+    ]
+  },
+  "vladimir": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "cura",
+      "inalvejavel",
+      "dano_explosivo",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "volibear": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "cura",
+      "shild",
+      "tank_vida",
+      "engaje"
+    ]
+  },
+  "warwick": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "cura",
+      "CC",
+      "dano_vida_maxima",
+      "mobilidade",
+      "engaje",
+      "lutador"
+    ]
+  },
+  "wukong": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "mobilidade",
+      "dash_avanco",
+      "camuflagem",
+      "CC",
+      "engaje",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "xayah": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "CC",
+      "inalvejavel",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "xin_zhao": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "mobilidade",
+      "dash_avanco",
+      "cura",
+      "engaje",
+      "bloqueio_projetil",
+      "inalvejavel",
+      "lutador"
+    ]
+  },
+  "yasuo": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "mobilidade",
+      "shild"
+    ]
+  },
+  "yone": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "mobilidade",
+      "shild",
+      "CC"
+    ]
+  },
+  "yuumi": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "shild",
+      "inalvejavel",
+      "poke",
+      "CC",
+      "fragil"
+    ]
+  },
+  "zed": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "poke",
+      "blink_teletransporte",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "zeri": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "ziggs": {
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "controle_zona",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "zilean": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "shild",
+      "mobilidade",
+      "imortalidade",
+      "poke",
+      "fragil"
+    ]
+  },
+  "zoe": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "poke",
+      "CC",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "zyra": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "controle_zona",
+      "poke",
+      "fragil"
+    ]
+  },
+  "fraquezas": {
+    "aatrox": {
+      "fraco_contra": [
+        "dano_explosivo",
+        "poke",
+        "desengaje",
+        "CC"
+      ],
+      "forte_contra": [
+        "papel",
+        "curto"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Item obrigatório. Corta a cura e dá penetração."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório para magos para cortar a cura.",
+        "Cetro de Cristal de Rylai": "Aplica lentidão constante."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Garante corta-cura imediato logo nos primeiros níveis da rota."
+      }
+    },
+    "amumu": {
+      "fraco_contra": [
+        "anti_cc",
+        "desengaje",
+        
+        "alta_mobilidade",
+        "execução",
+        "reduz_armadura"
+      ],
+      "forte_contra": [
+        "dependente_ataque_basico",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Causa dano baseado na Vida máxima do Amumu, excelente para derreter tanques.",
+        "Destruidor Divino": "Fortalece ataques contra campeões com muita Vida, vencendo trocas longas.",
+        "Lembranças do Lorde Dominik": "Ignora boa parte da Armadura acumulada pelo Amumu.",
+        "Cutelo Negro": "Reduz a Armadura do Amumu conforme a luta se prolonga.",
+        "Rancor de Serylda": "Oferece Penetração de Armadura e dificulta a fuga dele com lentidão.",
+        "Mata-Cráquens": "Causa dano verdadeiro, muito eficiente contra tanques.",
+        "Terminus": "Concede Penetração híbrida e excelente desempenho in lutas prolongadas.",
+        "Mandíbula de Malmortius": "Protege contra o alto dano mágico causado pelo Amumu.",
+        "Anjo Guardião": "Permite sobreviver caso seja eliminado durante o engage do Amumu.",
+        "Bandana de Mercúrio": "Remove o controle de grupo da Ultimate e aumenta as chances de sobreviver ao combo."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Queima a Vida máxima do Amumu, sendo o melhor item AP contra tanques.",
+        "Cajado do Vazio": "Ignora grande parte da Resistência Mágica acumulada por ele.",
+        "Criacendas": "Reduz a Resistência Mágica do Amumu e aumenta o dano mágico da equipe.",
+        "Joia da Ruína": "Amplifica o dano contra campeões com muita Vida.",
+        "Véu da Banshee": "Bloqueia o Lançamento de Bandagem (Q), impedindo o engage.",
+        "Ampulheta de Zhonya": "Permite evitar o combo após a Ultimate do Amumu.",
+        "Impulso Cósmico": "A mobilidade extra facilita escapar da aproximação dele.",
+        "Rylai": "Mantém o Amumu constantemente lento, dificultando que alcance sua equipe."
+      },
+      "runas": {
+        "Conquistador": "Excelente para lutas longas contra o Amumu, acumulando dano adaptativo.",
+        "Matador de Gigantes": "Aumenta o dano contra campeões com mais Vida máxima, perfeito contra Amumu tanque.",
+        "Lenda: Tenacidade": "Reduz a duração dos controles de grupo aplicados pelo Amumu.",
+        "Golpe de Escudo": "Aumenta o dano enquanto estiver protegido por escudos, útil com Malmortius ou Arco-escudo.",
+        "Transcendência": "Reduz o Tempo de Recarga para usar habilidades com mais frequência durante a luta.",
+        "Primeiro Ataque": "Permite causar muito dano antes do Amumu conseguir iniciar o combate."
+      }
+    },
+    "darius": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "CC",
+        "desengaje",
+        "dano_explosivo",
+        "papel"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_vida"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Item obrigatório para reduzir sua cura.",
+        "Espada do Rei Destruído": "Derrete sua Vida alta durante lutas longas.",
+        "Limiar da Noite": "Bloqueia o puxão (E), impedindo seu engage.",
+        "Bandana de Mercúrio": "Remove o controle do combo.",
+        "Anjo Guardião": "Evita morrer para a Ultimate."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório para reduzir sua regeneração.",
+        "Véu da Banshee": "Bloqueia o puxão.",
+        "Ampulheta de Zhonya": "Evita a execução da Ultimate.",
+        "Cetro de Cristal de Rylai": "Facilita manter distância."
+      },
+      "runas": {
+        "Primeiro Ataque": "Punir antes que ele consiga iniciar a luta.",
+        "Lenda: Tenacidade": "Reduz a duração dos controles.",
+        "Matador de Gigantes": "Mais dano contra sua Vida elevada."
+      }
+    },
+    "diana": {
+      "fraco_contra": [
+        "CC",
+        "anti_cc",
+        "dano_explosivo",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Absorve boa parte do burst mágico.",
+        "Limiar da Noite": "Bloqueia sua iniciação.",
+        "Bandana de Mercúrio": "Remove o controle da Ultimate."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede seu combo.",
+        "Ampulheta de Zhonya": "Anula completamente seu burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Ajuda contra o controle da Ultimate.",
+        "Osso Revestido": "Diminui o burst.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "dr.mundo": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "mobilidade",
+        "dano_verdadeiro",
+        "dash_avanco",
+        "evasao_ataque_basico"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "lutador"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Item obrigatório para reduzir sua cura.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida enorme.",
+        "Destruidor Divino": "Muito eficiente contra campeões com muita Vida.",
+        "Lembranças do Lorde Dominik": "Ignora parte da Armadura."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório para reduzir sua regeneração.",
+        "Tormento de Liandry": "Queima baseada na Vida máxima.",
+        "Cajado do Vazio": "Ignora Resistência Mágica.",
+        "Joia da Ruína": "Aumenta o dano contra tanques."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra sua Vida alta.",
+        "Conquistador": "Excelente in lutas prolongadas.",
+        "Incendiar (Feitiço)": "Reduz sua cura durante a Ultimate."
+      }
+    },
+    "fizz": {
+      "fraco_contra": [
+        "CC",
+        "tank_vida",
+        "tank_armadura",
+        "controle_zona",
+        "desengaje",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz muito o burst mágico do fizz.",
+        "Limiar da Noite": "Bloqueia a Ultimate ou a iniciação dele.",
+        "Anjo Guardião": "Evita perder a luta caso seja eliminado pelo combo.",
+        "Bandana de Mercúrio": "Ajuda a escapar do controle causado pela Ultimate."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula completamente o combo explosivo do fizz.",
+        "Véu da Banshee": "Bloqueia a primeira habilidade importante dele.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano do primeiro combo."
+      },
+      "runas": {
+        "Osso Revestido": "Reduz bastante o dano inicial do combo.",
+        "Lenda: Tenacidade": "Ajuda contra o controle da Ultimate.",
+        "Transcendência": "Permite utilizar habilidades mais vezes durante a luta."
+      }
+    },
+    "gragas": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "CC",
+        "desengaje",
+        "papel"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "engaje",
+        "assassino",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra todo o dano mágico do gragas.",
+        "Limiar da Noite": "Bloqueia o Barril Explosivo ou a investida.",
+        "Bandana de Mercúrio": "Remove parte do controle do combo."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede a iniciação do gragas.",
+        "Ampulheta de Zhonya": "Evita o burst após a Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano do combo."
+      },
+      "runas": {
+        "Osso Revestido": "Muito eficiente contra burst.",
+        "Lenda: Tenacidade": "Reduz a duração dos controles.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "graves": {
+      "fraco_contra": [
+        "CC",
+        "tank_armadura",
+        "controle_zona",
+        "poke"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Dificulta o burst do graves.",
+        "Espada do Rei Destruído": "Excelente em trocas longas.",
+        "Limiar da Noite": "Bloqueia a primeira habilidade importante."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o dano da Ultimate.",
+        "Cetro de Cristal de Rylai": "Ajuda a manter distância."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Ajuda contra o controle da Cortina de Fumaça.",
+        "Matador de Gigantes": "Caso ele faça build mais resistente."
+      }
+    },
+    "gwen": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "poke"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "tank_armadura",
+        "lutador"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz a cura constante da gwen.",
+        "Espada do Rei Destruído": "Excelente in duelos prolongados.",
+        "Anjo Guardião": "Ajuda contra o burst do fim da luta."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz bastante a cura dela.",
+        "Ampulheta de Zhonya": "Evita parte do dano da Ultimate.",
+        "Véu da Banshee": "Bloqueia o início do combo."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Muito eficiente para cortar a cura.",
+        "Lenda: Tenacidade": "Ajuda contra o controle da Ultimate.",
+        "Primeiro Ataque": "Punir antes que a gwen entre na luta."
+      }
+    },
+    "hecarim": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "desengaje",
+        "anti_cc",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "team_fight",
+        "engaje"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia o medo da Ultimate ou o engage.",
+        "Espada do Rei Destruído": "Ajuda em lutas longas.",
+        "Bandana de Mercúrio": "Reduz o impacto do medo."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede a iniciação do hecarim.",
+        "Ampulheta de Zhonya": "Evita o burst logo após o engage."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Reduz a duração do medo.",
+        "Transcendência": "Mais habilidades para controlar a luta."
+      }
+    },
+    "jax": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "lutador"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente em duelos prolongados.",
+        "Anjo Guardião": "Evita perder o x1.",
+        "Lembrete Mortal": "Caso ele tenha muita cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst após o salto.",
+        "Morellonomicon": "Reduz a cura caso utilize itens de sustain."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Ajuda contra o atordoamento.",
+        "Primeiro Ataque": "Punir antes da luta começar."
+      }
+    },
+    "kayn": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia o início do combo.",
+        "Espada do Rei Destruído": "Muito boa contra a forma Darkin.",
+        "Lembrete Mortal": "Reduz a cura do Kayn Darkin.",
+        "Bandana de Mercúrio": "Ajuda contra os controles da equipe inimiga após o engage."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Muito eficiente contra a cura do Darkin.",
+        "Ampulheta de Zhonya": "Evita o dano quando Kayn sai da Ultimate.",
+        "Véu da Banshee": "Dificulta o engage inicial."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra o Kayn Darkin.",
+        "Lenda: Tenacidade": "Ajuda contra composições de controle.",
+        "Osso Revestido": "Reduz o burst da forma Assassina."
+      }
+    },
+    "kha'zix": {
+      "fraco_contra": [
+        "CC",
+        "team_fight",
+        "tank_armadura",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia parte do burst inicial.",
+        "Anjo Guardião": "Evita morrer para o combo.",
+        "Bandana de Mercúrio": "Ajuda a escapar após o engage."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula completamente o burst.",
+        "Véu da Banshee": "Bloqueia a primeira habilidade importante.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano explosivo."
+      },
+      "runas": {
+        "Osso Revestido": "Reduz bastante o dano inicial.",
+        "Lenda: Tenacidade": "Melhora a sobrevivência após o engage.",
+        "Primeiro Ataque": "Punir antes dele iniciar."
+      }
+    },
+    "kindred": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "lutador"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente para vencer trocas longas.",
+        "Anjo Guardião": "Muito útil após a Ultimate.",
+        "Limiar da Noite": "Protege do burst inicial."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Permite esperar o fim da Ultimate.",
+        "Véu da Banshee": "Impede parte do combo."
+      },
+      "runas": {
+        "Conquistador": "Ótimo para lutas prolongadas.",
+        "Lenda: Tenacidade": "Ajuda contra controles.",
+        "Matador de Gigantes": "Caso faça build contra tanques."
+      }
+    },
+    "lee_sin": {
+      "fraco_contra": [
+        "CC",
+        "tank_armadura",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Evita perder para o combo.",
+        "Limiar da Noite": "Bloqueia o chute ou o Sonic Wave.",
+        "Bandana de Mercúrio": "Reduz o impacto do controle."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula o burst.",
+        "Véu da Banshee": "Bloqueia a iniciação."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Ajuda contra o chute.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "lillia": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "engaje",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "tank_armadura",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz muito o dano mágico.",
+        "Bandana de Mercúrio": "Remove o sono da Ultimate.",
+        "Limiar da Noite": "Bloqueia a primeira habilidade."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede o início do combo.",
+        "Ampulheta de Zhonya": "Evita o burst após o sono.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano mágico."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito forte contra o sono.",
+        "Osso Revestido": "Reduz burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "maokai": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "papel",
+        "CC"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente contra tanques.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Queima Vida máxima.",
+        "Morellonomicon": "Reduz cura.",
+        "Cajado do Vazio": "Ignora Resistência Mágica."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra tanques.",
+        "Conquistador": "Excelente em lutas longas.",
+        "Incendiar (Feitiço)": "Diminui sua regeneração."
+      }
+    },
+    "master_yi": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona",
+        "team_fight"
+      ],
+      "forte_contra": [
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra resets.",
+        "Limiar da Noite": "Bloqueia parte do burst.",
+        "Espada do Rei Destruído": "Ajuda em trocas longas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula o dano do Alpha Strike.",
+        "Véu da Banshee": "Impede parte do engage."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Essencial contra_yi.",
+        "Osso Revestido": "Reduz burst.",
+        "Primeiro Ataque": "Punir antes da luta."
+      }
+    },
+    "mordekaiser": {
+      "fraco_contra": [
+        "mobilidade",
+        "poke",
+        "CC",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "lutador",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Lembrete Mortal": "Reduz a cura.",
+        "Espada do Rei Destruído": "Muito eficiente contra sua Vida."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz cura.",
+        "Véu da Banshee": "Bloqueia a Ultimate ou o puxão.",
+        "Ampulheta de Zhonya": "Permite sobreviver ao Reino da Morte."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Ajuda contra seus controles.",
+        "Incendiar (Feitiço)": "Muito forte para cortar cura.",
+        "Matador de Gigantes": "Excelente contra sua Vida elevada."
+      }
+    },
+    "morgana": {
+      "fraco_contra": [
+        "mobilidade",
+        "dano_explosivo",
+        "poke",
+        "desengaje",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "CC",
+        "engaje",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Remove a Prisão Sombria e facilita escapar da Ultimate.",
+        "Mandíbula de Malmortius": "Excelente contra o dano mágico.",
+        "Limiar da Noite": "Bloqueia a primeira habilidade importante."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Prisão Sombria.",
+        "Ampulheta de Zhonya": "Evita o dano da Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Reduz a duração dos controles.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "nautilus": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "desengaje",
+        "anti_cc",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "papel",
+        "engaje",
+        "team_fight",
+        "CC"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Remove os controles do combo.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Limiar da Noite": "Bloqueia o gancho."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede o gancho.",
+        "Tormento de Liandry": "Excelente contra tanques.",
+        "Ampulheta de Zhonya": "Evita o combo após a Ultimate."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Nautilus.",
+        "Matador de Gigantes": "Mais dano contra sua Vida."
+      }
+    },
+    "nilah": {
+      "fraco_contra": [
+        "poke",
+        "CC",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "papel"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Anjo Guardião": "Evita perder para o combo.",
+        "Espada do Rei Destruído": "Boa em trocas prolongadas."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz a cura.",
+        "Ampulheta de Zhonya": "Evita o burst da Ultimate."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra a cura.",
+        "Lenda: Tenacidade": "Ajuda contra o controle."
+      }
+    },
+    "nocturne": {
+      "fraco_contra": [
+        "CC",
+        "team_fight",
+        "tank_armadura",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o medo.",
+        "Bandana de Mercúrio": "Remove o medo."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula completamente o combo.",
+        "Véu da Banshee": "Impede parte da iniciação."
+      },
+      "runas": {
+        "Osso Revestido": "Reduz o burst.",
+        "Lenda: Tenacidade": "Contra o medo."
+      }
+    },
+    "nunu_&_willump": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "CC",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "tank_vida",
+        "setup"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Bandana de Mercúrio": "Ajuda contra os controles."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório contra sua regeneração.",
+        "Tormento de Liandry": "Excelente contra tanques.",
+        "Ampulheta de Zhonya": "Evita a Ultimate."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra sua Vida.",
+        "Incendiar (Feitiço)": "Reduz bastante a cura."
+      }
+    },
+    "olaf": {
+      "fraco_contra": [
+        "poke",
+        "desengaje",
+        "mobilidade",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "CC",
+        "tank_vida",
+        "lutador"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Muito boa contra Olaf.",
+        "Anjo Guardião": "Excelente contra seu all-in.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua regeneração.",
+        "Ampulheta de Zhonya": "Evita seu engage."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Conquistador": "Muito bom em lutas longas."
+      }
+    },
+    "pantheon": {
+      "fraco_contra": [
+        "tank_armadura",
+        "CC",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia a lança.",
+        "Bandana de Mercúrio": "Ajuda contra o atordoamento."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula o combo.",
+        "Véu da Banshee": "Bloqueia a lança."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Contra o stun."
+      }
+    },
+    "poppy": {
+      "fraco_contra": [
+        "poke",
+        "dano_vida_maxima",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "mobilidade",
+        "engaje",
+        "lutador",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente contra tanques.",
+        "Lembrete Mortal": "Caso tenha muita cura."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Derrete sua Vida.",
+        "Cajado do Vazio": "Ignora Resistência Mágica."
+      },
+      "runas": {
+        "Matador de Gigantes": "Muito eficiente.",
+        "Conquistador": "Excelente em lutas longas."
+      }
+    },
+    "rammus": {
+      "fraco_contra": [
+        "AP",
+        "dano_vida_maxima",
+        "poke"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "velocidade_ataque",
+        "papel"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Ajuda contra sua Vida alta.",
+        "Destruidor Divino": "Excelente contra tanques.",
+        "Lembrete Mortal": "Caso tenha muita regeneração."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Principal item contra Rammus.",
+        "Cajado do Vazio": "Ignora Resistência Mágica.",
+        "Joia da Ruína": "Excelente contra Vida alta."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra tanques.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "rengar": {
+      "fraco_contra": [
+        "CC",
+        "team_fight",
+        "tank_armadura",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia parte do combo.",
+        "Bandana de Mercúrio": "Ajuda contra o controle."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula o salto.",
+        "Véu da Banshee": "Bloqueia a primeira habilidade."
+      },
+      "runas": {
+        "Osso Revestido": "Muito forte contra burst.",
+        "Lenda: Tenacidade": "Melhora a sobrevivência."
+      }
+    },
+    "riven": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "tank_armadura",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "lutador",
+        "papel",
+        "dano_explosivo"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra o burst.",
+        "Espada do Rei Destruído": "Boa em trocas longas.",
+        "Lembrete Mortal": "Caso utilize muita cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Morellonomicon": "Reduz cura."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Contra seus controles."
+      }
+    },
+    "shen": {
+      "fraco_contra": [
+        "poke",
+        "dano_vida_maxima",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "engaje",
+        "global_semiglobal",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida alta.",
+        "Destruidor Divino": "Muito eficiente contra tanques.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Excelente contra tanques.",
+        "Morellonomicon": "Reduz sua cura.",
+        "Cajado do Vazio": "Ignora Resistência Mágica."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra Shen.",
+        "Conquistador": "Excelente em lutas longas."
+      }
+    },
+    "shyvana": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "lutador",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente em duelos.",
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Anjo Guardião": "Ajuda contra seu burst."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Derrete sua Vida.",
+        "Morellonomicon": "Reduz cura.",
+        "Ampulheta de Zhonya": "Evita seu combo."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Incendiar (Feitiço)": "Excelente contra sua regeneração."
+      }
+    },
+    "skarner": {
+      "fraco_contra": [
+        "poke",
+        "desengaje",
+        "mobilidade",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "engaje",
+        "tank_vida",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Remove a supressão da Ultimate.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente contra Skarner."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Ultimate.",
+        "Tormento de Liandry": "Excelente contra tanques.",
+        "Ampulheta de Zhonya": "Evita o combo após a Ultimate."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Matador de Gigantes": "Mais dano contra sua Vida."
+      }
+    },
+    "talon": {
+      "fraco_contra": [
+        "CC",
+        "tank_armadura",
+        "team_fight",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia parte do combo.",
+        "Bandana de Mercúrio": "Ajuda contra o controle da equipe."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula completamente o combo.",
+        "Véu da Banshee": "Bloqueia sua iniciação.",
+        "Coroa da Rainha Despedaçada": "Reduz o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Ajuda após o engage."
+      }
+    },
+    "taliyah": {
+      "fraco_contra": [
+        "mobilidade",
+        "dano_explosivo",
+        "desengaje"
+      ],
+      "forte_contra": [
+        "controle_zona",
+        "team_fight",
+        "engaje",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia seu combo.",
+        "Bandana de Mercúrio": "Ajuda contra os controles."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua primeira habilidade.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Osso Revestido": "Reduz burst."
+      }
+    },
+    "tryndamere": {
+      "fraco_contra": [
+        "CC",
+        "desengaje",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Anjo Guardião": "Excelente contra sua Ultimate.",
+        "Espada do Rei Destruído": "Muito boa em duelos."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz cura.",
+        "Ampulheta de Zhonya": "Espera a Ultimate terminar."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "vi": {
+      "fraco_contra": [
+        "desengaje",
+        "CC",
+        "poke",
+        "tank_armadura"
+      ],
+      "forte_contra": [
+        "papel",
+        "engaje",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia seu engage.",
+        "Bandana de Mercúrio": "Ajuda contra a Ultimate."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede a iniciação.",
+        "Ampulheta de Zhonya": "Evita o combo."
+      },
+      "runas": {
+        "Osso Revestido": "Muito eficiente.",
+        "Lenda: Tenacidade": "Contra os controles."
+      }
+    },
+    "viego": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "papel"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Anjo Guardião": "Excelente contra resets.",
+        "Espada do Rei Destruído": "Boa em trocas lanças."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz cura.",
+        "Ampulheta de Zhonya": "Evita sua Ultimate."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Muito eficiente.",
+        "Conquistador": "Excelente em lutas longas."
+      }
+    },
+    "volibear": {
+      "fraco_contra": [
+        "poke",
+        "dano_vida_maxima",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "engaje",
+        "tank_vida",
+        "lutador",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Excelente contra sua Vida.",
+        "Morellonomicon": "Reduz cura.",
+        "Cajado do Vazio": "Ignora Resistência Mágica."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano.",
+        "Incendiar (Feitiço)": "Muito forte."
+      }
+    },
+    "warwick": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "lutador"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Obrigatório.",
+        "Anjo Guardião": "Excelente contra a Ultimate.",
+        "Espada do Rei Destruído": "Boa em duelos."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório.",
+        "Ampulheta de Zhonya": "Evita sua Ultimate.",
+        "Tormento de Liandry": "Muito eficiente."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Muito forte.",
+        "Lenda: Tenacidade": "Contra a Ultimate."
+      }
+    },
+    "wukong": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "desengaje",
+        "tank_armadura"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "engaje",
+        "papel",
+        "dano_explosivo"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia seu engage.",
+        "Espada do Rei Destruído": "Boa em lutas longas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita sua Ultimate.",
+        "Véu da Banshee": "Bloqueia a iniciação."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Contra knock-up.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "xin_zhao": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "desengaje",
+        "tank_armadura"
+      ],
+      "forte_contra": [
+        "engaje",
+        "lutador",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Espada do Rei Destruído": "Boa em trocas longas.",
+        "Lembrete Mortal": "Caso tenha cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o combo.",
+        "Morellonomicon": "Reduz sua cura."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Contra seus controles."
+      }
+    },
+    "ahri": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "assassino",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz bastante o burst mágico da Ahri.",
+        "Limiar da Noite": "Bloqueia o Charme e impede o combo.",
+        "Bandana de Mercúrio": "Remove o Charme e reduz o tempo de controle."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o Charme.",
+        "Ampulheta de Zhonya": "Evita o burst após o engage.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra o Charme.",
+        "Osso Revestido": "Reduz o burst.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "akali": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "team_fight"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu dano mágico.",
+        "Limiar da Noite": "Bloqueia parte do combo.",
+        "Anjo Guardião": "Evita perder para o burst."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Anula o combo explosivo.",
+        "Véu da Banshee": "Bloqueia a primeira habilidade importante.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Ajuda contra controles da equipe inimiga.",
+        "Primeiro Ataque": "Punir antes que ela entre na luta."
+      }
+    },
+    "akshan": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona",
+        "tank_armadura"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "camuflagem"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Evita seu burst.",
+        "Espada do Rei Destruído": "Muito boa em trocas longas.",
+        "Limiar da Noite": "Bloqueia a Ultimate."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Véu da Banshee": "Bloqueia sua iniciação."
+      },
+      "runas": {
+        "Conquistador": "Excelente em trocas prolongadas.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "alistar": {
+      "fraco_contra": [
+        "poke",
+        "desengaje",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "engaje",
+        "CC",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Bandana de Mercúrio": "Ajuda contra seu combo.",
+        "Destruidor Divino": "Muito eficiente contra tanques."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Excelente contra tanques.",
+        "Véu da Banshee": "Bloqueia a iniciação.",
+        "Ampulheta de Zhonya": "Evita o follow-up."
+      },
+      "runas": {
+        "Matador de Gigantes": "Mais dano contra sua Vida.",
+        "Lenda: Tenacidade": "Muito eficiente."
+      }
+    },
+    "ambessa": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "lutador",
+        "engaje",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra o burst.",
+        "Espada do Rei Destruído": "Boa em trocas longas.",
+        "Lembrete Mortal": "Caso tenha muita cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita seu combo.",
+        "Morellonomicon": "Reduz sua cura."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Contra seus controles."
+      }
+    },
+    "annie": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "assassino",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel",
+        "team_fight",
+        "dano_explosivo"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz bastante o burst mágico da Annie.",
+        "Limiar da Noite": "Bloqueia o atordoamento da passiva ou Tibbers.",
+        "Bandana de Mercúrio": "Remove o atordoamento rapidamente."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o stun da Annie.",
+        "Ampulheta de Zhonya": "Evita o combo com Tibbers.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Reduz a duração do stun.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "ashe": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "engaje"
+      ],
+      "forte_contra": [
+        "poke",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Flecha de Cristal.",
+        "Anjo Guardião": "Ajuda a sobreviver ao foco.",
+        "Bandana de Mercúrio": "Remove o atordoamento da Ultimate."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Ultimate.",
+        "Ampulheta de Zhonya": "Evita o burst após o engage."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra a Ultimate.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "aurelion_sol": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia o controle inicial.",
+        "Anjo Guardião": "Ajuda contra o burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua iniciação.",
+        "Ampulheta de Zhonya": "Evita o combo.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes da escala."
+      }
+    },
+    "aurora": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "papel",
+        "team_fight",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia o início do combo.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede a primeira habilidade.",
+        "Ampulheta de Zhonya": "Evita seu combo explosivo.",
+        "Coroa da Rainha Despedaçada": "Reduz o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Ajuda contra controles.",
+        "Osso Revestido": "Excelente contra burst."
+      }
+    },
+    "bardo": {
+      "fraco_contra": [
+        "dano_explosivo",
+        "camuflagem",
+        "invisibilidade_verdadeira",
+        "dash_avanco"
+      ],
+      "forte_contra": [
+        "tank_armadura",
+        "tank_vida",
+        "imortalidade",
+        "dependente_ataque_basico"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia o atordoamento do Q ou a Ultimate.",
+        "Bandana de Mercúrio": "Remove instantaneamente o atordoamento.",
+        "Mandíbula de Malmortius": "Absorve o dano mágico do poke contínuo."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a primeira habilidade (Q ou Ult).",
+        "Ampulheta de Zhonya": "Permite desviar do atordoamento do Q.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano do ataque fortalecido."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Reduz o tempo de atordoamento do Q.",
+        "Vento Revigorante": "Cura passivamente o poke constante dele na rota.",
+        "Orbe Anulador": "Garante um escudo de emergência contra dano mágico."
+      }
+    },
+    "blitzcrank": {
+      "fraco_contra": [
+        "poke",
+        "desengaje",
+        "mobilidade",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel",
+        "engaje",
+        "CC"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia completamente o Gancho.",
+        "Bandana de Mercúrio": "Remove o controle rapidamente.",
+        "Espada do Rei Destruído": "Boa contra sua Vida quando tanque."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o Gancho.",
+        "Ampulheta de Zhonya": "Evita o combo após ser puxado.",
+        "Tormento de Liandry": "Excelente caso esteja de tanque."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Blitzcrank.",
+        "Matador de Gigantes": "Caso faça build tanque."
+      }
+    },
+    "brand": {
+      "fraco_contra": [
+        "dano_explosivo",
+        "assassino",
+        "mobilidade",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "controle_zona",
+        "tank_vida"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz muito o dano mágico contínuo do Brand.",
+        "Limiar da Noite": "Bloqueia a primeira habilidade importante.",
+        "Bandana de Mercúrio": "Ajuda contra o atordoamento."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o início do combo.",
+        "Ampulheta de Zhonya": "Evita o dano da Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Reduz o tempo do atordoamento.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "braum": {
+      "fraco_contra": [
+        "poke",
+        "dano_vida_maxima",
+        "desengaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "engaje",
+        "team_fight",
+        "CC"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida elevada.",
+        "Destruidor Divino": "Muito eficiente contra tanques.",
+        "Bandana de Mercúrio": "Ajuda contra os controles."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Excelente contra Braum tanque.",
+        "Cajado do Vazio": "Ignora Resistência Mágica.",
+        "Véu da Banshee": "Bloqueia a iniciação."
+      },
+      "runas": {
+        "Matador de Gigantes": "Excelente contra sua Vida.",
+        "Lenda: Tenacidade": "Muito eficiente contra Braum."
+      }
+    },
+    "caitlyn": {
+      "fraco_contra": [
+        "assassino",
+        "engaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "poke",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Ultimate ou uma armadilha.",
+        "Anjo Guardião": "Excelente contra o burst.",
+        "Espada do Rei Destruído": "Ajuda em perseguições."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Véu da Banshee": "Bloqueia sua habilidade de controle."
+      },
+      "runas": {
+        "Conquistador": "Bom para trocas prolongadas.",
+        "Lenda: Tenacidade": "Ajuda contra armadilhas."
+      }
+    },
+    "camille": {
+      "fraco_contra": [
+        "CC",
+        "poke",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_vida"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra o all-in.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos.",
+        "Lembrete Mortal": "Caso Camille tenha muita cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst dentro da Ultimate.",
+        "Morellonomicon": "Reduz sua cura."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Ajuda contra o atordoamento."
+      }
+    },
+    "cho'gath": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "team_fight",
+        "engaje",
+        "CC"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Principal item contra Cho'gath.",
+        "Destruidor Divino": "Excelente contra sua Vida enorme.",
+        "Lembrete Mortal": "Reduz qualquer regeneração."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Derrete sua Vida máxima.",
+        "Cajado do Vazio": "Ignora Resistência Mágica.",
+        "Morellonomicon": "Reduz sua sustentação."
+      },
+      "runas": {
+        "Matador de Gigantes": "Runa ideal contra Cho'gath.",
+        "Conquistador": "Excelente em lutas longas.",
+        "Incendiar (Feitiço)": "Ajuda contra regeneração."
+      }
+    },
+    "corki": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "CC"
+      ],
+      "forte_contra": [
+        "poke",
+        "late game",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra o dano híbrido do Corki.",
+        "Limiar da Noite": "Bloqueia um míssil importante ou a Ultimate.",
+        "Anjo Guardião": "Ajuda a sobreviver ao burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia parte do poke.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano inicial."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades durante a luta.",
+        "Conquistador": "Boa opção para trocas longas."
+      }
+    },
+    "draven": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "assassino"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Evita perder para o burst do draven.",
+        "Limiar da Noite": "Bloqueia a Ultimate.",
+        "Bandana de Mercúrio": "Ajuda contra suportes de engage."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Véu da Banshee": "Bloqueia habilidades importantes."
+      },
+      "runas": {
+        "Conquistador": "Excelente em trocas prolongadas.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "ezreal": {
+      "fraco_contra": [
+        "engaje",
+        "CC",
+        "assassino"
+      ],
+      "forte_contra": [
+        "poke",
+        "papel",
+        "late game",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Ultimate.",
+        "Anjo Guardião": "Excelente contra burst.",
+        "Espada do Rei Destruído": "Boa para perseguir ezreal."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia habilidades importantes.",
+        "Ampulheta de Zhonya": "Evita a Ultimate."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "fiora": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona",
+        "team_fight"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_vida"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Boa para acompanhar suas trocas.",
+        "Lembrete Mortal": "Reduz sua cura da Ultimate.",
+        "Anjo Guardião": "Excelente contra all-in."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz bastante sua cura.",
+        "Ampulheta de Zhonya": "Ajuda contra seu burst."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra a cura.",
+        "Conquistador": "Muito eficiente em duelos.",
+        "Lenda: Tenacidade": "Ajuda contra controls."
+      }
+    },
+    "galio": {
+      "fraco_contra": [
+        "dano_ataque",
+        "poke",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "CC",
+        "global_semiglobal"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente contra galio.",
+        "Bandana de Mercúrio": "Reduz seus controles."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Muito forte contra galio tanque.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica.",
+        "Véu da Banshee": "Bloqueia sua provocação."
+      },
+      "runas": {
+        "Matador de Gigantes": "Excelente contra galio.",
+        "Lenda: Tenacidade": "Reduz a duração da provocação.",
+        "Conquistador": "Ótimo em lutas prolongadas."
+      }
+    },
+    "garen": {
+      "fraco_contra": [
+        "poke",
+        "dano_vida_maxima",
+        "CC",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_armadura"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida alta.",
+        "Lembrete Mortal": "Reduz sua regeneração passiva.",
+        "Destruidor Divino": "Muito eficiente contra garen."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Excelente contra sua Vida.",
+        "Morellonomicon": "Reduz sua regeneração.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Reduz bastante sua regeneração.",
+        "Matador de Gigantes": "Excelente contra garen.",
+        "Conquistador": "Muito eficiente em lutas longas."
+      }
+    },
+    "gnar": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "engaje",
+        "tank_vida",
+        "CC"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Muito eficiente contra gnar.",
+        "Anjo Guardião": "Ajuda contra o engage do Mega gnar.",
+        "Lembrete Mortal": "Caso utilize muita cura."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Muito forte contra Mega gnar.",
+        "Ampulheta de Zhonya": "Evita o combo do Mega gnar.",
+        "Morellonomicon": "Reduz regeneração."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Matador de Gigantes": "Muito eficiente.",
+        "Lenda: Tenacidade": "Ajuda contra os controles."
+      }
+    },
+    "heimerdinger": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "controle_zona",
+        "poke",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia a granada.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a granada.",
+        "Ampulheta de Zhonya": "Evita seu combo.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Transcendência": "Mais habilidades para destruir as torres.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Primeiro Ataque": "Punir antes que ele escale."
+      }
+    },
+    "irelia": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "poke"
+      ],
+      "forte_contra": [
+        "lutador",
+        "papel",
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Anjo Guardião": "Excelente contra all-in.",
+        "Espada do Rei Destruído": "Boa em trocas prolongadas."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz bastante sua cura.",
+        "Ampulheta de Zhonya": "Evita seu burst."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Muito eficiente.",
+        "Conquistador": "Excelente em duelos.",
+        "Lenda: Tenacidade": "Ajuda contra seus controles."
+      }
+    },
+    "janna": {
+      "fraco_contra": [
+        "poke",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "engaje",
+        "desengaje",
+        "team_fight",
+        "CC"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia um tornado ou o slow.",
+        "Anjo Guardião": "Ajuda contra o peel inimigo.",
+        "Bandana de Mercúrio": "Reduz o impacto dos controles."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o tornado.",
+        "Ampulheta de Zhonya": "Permite sobreviver ao foco.",
+        "Coroa da Rainha Despedaçada": "Reduz o burst da equipe inimiga."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Janna.",
+        "Transcendência": "Mais habilidades durante a luta.",
+        "Conquistador": "Boa opção em lutas prolongadas."
+      }
+    },
+    "jarvan_iv": {
+      "fraco_contra": [
+        "mobilidade",
+        "desengaje",
+        "CC",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "papel",
+        "setup"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a combinação Bandeira + Lança.",
+        "Anjo Guardião": "Excelente contra o burst inicial.",
+        "Bandana de Mercúrio": "Ajuda a escapar do controle."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o engage.",
+        "Ampulheta de Zhonya": "Evita o dano dentro do Cataclismo.",
+        "Tormento de Liandry": "Muito eficiente caso faça build tanque."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Reduz o impacto do combo.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Conquistador": "Muito eficiente em lutas longas."
+      }
+    },
+    "jayce": {
+      "fraco_contra": [
+        "engaje",
+        "mobilidade",
+        "dano_explosivo",
+        "assassino"
+      ],
+      "forte_contra": [
+        "poke",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o Choque Elétrico.",
+        "Bandana de Mercúrio": "Ajuda contra o controle."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o combo explosivo.",
+        "Véu da Banshee": "Bloqueia sua principal habilidade.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra poke e burst.",
+        "Conquistador": "Muito eficiente em trocas longas.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "jhin": {
+      "fraco_contra": [
+        "engaje",
+        "mobilidade",
+        "assassino"
+      ],
+      "forte_contra": [
+        "poke",
+        "papel",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Ultimate ou o W.",
+        "Anjo Guardião": "Excelente contra burst.",
+        "Bandana de Mercúrio": "Reduz o controle do Florescer Mortal."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o W.",
+        "Ampulheta de Zhonya": "Evita o dano da Ultimate."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra seu controle.",
+        "Conquistador": "Boa em trocas prolongadas."
+      }
+    },
+    "jinx": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "late game",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra resets.",
+        "Limiar da Noite": "Bloqueia o Zap! ou a Ultimate.",
+        "Bandana de Mercúrio": "Ajuda contra as armadilhas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst após os resets.",
+        "Véu da Banshee": "Bloqueia o Zap!.",
+        "Cetro de Cristal de Rylai": "Facilita alcançar a Jinx."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Ajuda contra os controles.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "kai'sa": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "poke",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "late game"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o W.",
+        "Espada do Rei Destruído": "Muito boa em trocas prolongadas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o combo após a Ultimate.",
+        "Véu da Banshee": "Bloqueia o W.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "kalista": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "engaje",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o controle da Ultimate da dupla.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst durante o engage.",
+        "Véu da Banshee": "Bloqueia habilidades importantes.",
+        "Cetro de Cristal de Rylai": "Facilita impedir seus saltos."
+      },
+      "runas": {
+        "Conquistador": "Excelente em trocas prolongadas.",
+        "Lenda: Tenacidade": "Ajuda contra o engage.",
+        "Osso Revestido": "Reduz o burst."
+      }
+    },
+    "karma": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "poke",
+        "team_fight",
+        "shild",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu dano mágico.",
+        "Limiar da Noite": "Bloqueia a amarração.",
+        "Bandana de Mercúrio": "Reduz o tempo de controle."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua raiz.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Transcendência": "Mais habilidades.",
+        "Osso Revestido": "Excelente contra burst."
+      }
+    },
+    "kassadin": {
+      "fraco_contra": [
+        "CC",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "late game",
+        "mobilidade",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu burst mágico.",
+        "Anjo Guardião": "Evita morrer para o combo.",
+        "Limiar da Noite": "Bloqueia a primeira habilidade."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Impede o início do combo.",
+        "Ampulheta de Zhonya": "Anula o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano explosivo."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Conquistador": "Bom em lutas longas.",
+        "Primeiro Ataque": "Punir antes da escala."
+      }
+    },
+    "katarina": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "papel",
+        "assassino",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra resets.",
+        "Mandíbula de Malmortius": "Reduz seu burst.",
+        "Limiar da Noite": "Bloqueia o início do combo."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Cancela completamente sua Ultimate.",
+        "Véu da Banshee": "Bloqueia sua primeira habilidade.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Ajuda contra controles.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Primeiro Ataque": "Punir antes do engage."
+      }
+    },
+    "kayle": {
+      "fraco_contra": [
+        "engaje",
+        "assassino"
+      ],
+      "forte_contra": [
+        "late game",
+        "papel",
+        "team_fight",
+        "imortalidade"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra o dano tardio.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua cura.",
+        "Ampulheta de Zhonya": "Espera o fim da Ultimate.",
+        "Tormento de Liandry": "Excelente em lutas longas."
+      },
+      "runas": {
+        "Conquistador": "Muito eficiente.",
+        "Incendiar (Feitiço)": "Reduz sua cura.",
+        "Osso Revestido": "Ajuda no início da partida."
+      }
+    },
+    "kennen": {
+      "fraco_contra": [
+        "poke",
+        "dano_explosivo",
+        "assassino",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "engaje",
+        "papel",
+        "CC"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz bastante o burst mágico.",
+        "Bandana de Mercúrio": "Diminui o impacto do atordoamento.",
+        "Limiar da Noite": "Bloqueia o início do combo."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a primeira habilidade.",
+        "Ampulheta de Zhonya": "Evita o burst da Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra seus atordoamentos.",
+        "Osso Revestido": "Reduz bastante o burst.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "leona": {
+      "fraco_contra": [
+        "poke",
+        "desengaje",
+        "anti_cc",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "engaje",
+        "CC",
+        "team_fight",
+        "papel",
+        "setup"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Remove rapidamente sua sequência de controles.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida elevada.",
+        "Limiar da Noite": "Bloqueia a Espada Zenith."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o engage.",
+        "Tormento de Liandry": "Excelente contra Leona tanque.",
+        "Ampulheta de Zhonya": "Evita o follow-up após o engage."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Essencial contra Leona.",
+        "Matador de Gigantes": "Excelente contra sua resistência."
+      }
+    },
+    "lissandra": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "assassino"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "CC"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu burst mágico.",
+        "Bandana de Mercúrio": "Reduz o tempo de controle.",
+        "Limiar da Noite": "Bloqueia a iniciação."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua Ultimate ou Raiz.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "lucian": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "papel",
+        "dano_ataque",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia a Ultimate.",
+        "Espada do Rei Destruído": "Muito eficiente em trocas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Véu da Banshee": "Bloqueia sua habilidade principal."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "lulu": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "poke"
+      ],
+      "forte_contra": [
+        "shild",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Polimorfia.",
+        "Anjo Guardião": "Ajuda contra o foco inimigo.",
+        "Bandana de Mercúrio": "Reduz o impacto dos controles."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Polimorfia.",
+        "Ampulheta de Zhonya": "Evita o burst da equipe inimiga.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra a Polimorfia.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes que Lulu proteja o aliado."
+      }
+    },
+    "lux": {
+      "fraco_contra": [
+        "mobilidade",
+        "assassino",
+        "dano_explosivo",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "poke",
+        "papel",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Reduz bastante o burst mágico.",
+        "Limiar da Noite": "Bloqueia a Prisão da Luz.",
+        "Bandana de Mercúrio": "Remove rapidamente a raiz."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Prisão da Luz.",
+        "Ampulheta de Zhonya": "Evita o burst da Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano inicial."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra a raiz.",
+        "Osso Revestido": "Muito eficiente contra burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "malphite": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "dano_magico"
+      ],
+      "forte_contra": [
+        "dano_ataque",
+        "engaje",
+        "team_fight",
+        "papel",
+        "tank_armadura"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida alta.",
+        "Destruidor Divino": "Muito eficiente contra Malphite.",
+        "Bandana de Mercúrio": "Reduz o impacto da Ultimate."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Principal item contra Malphite.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica.",
+        "Ampulheta de Zhonya": "Evita o burst após a Ultimate."
+      },
+      "runas": {
+        "Matador de Gigantes": "Excelente contra Malphite.",
+        "Lenda: Tenacidade": "Ajuda contra o knock-up.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "miss_fortune": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "CC"
+      ],
+      "forte_contra": [
+        "poke",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia o disparo inicial da Ultimate.",
+        "Anjo Guardião": "Excelente contra burst.",
+        "Bandana de Mercúrio": "Ajuda contra controles da equipe inimiga."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Cancela praticamente toda a Ultimate.",
+        "Véu da Banshee": "Bloqueia o Double Up.",
+        "Coroa da Rainha Despedaçada": "Reduz o burst."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Ajuda contra controles.",
+        "Osso Revestido": "Reduz burst."
+      }
+    },
+    "milio": {
+      "fraco_contra": [
+        "assassino",
+        "poke",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "shild",
+        "cura",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia parte do controle.",
+        "Anjo Guardião": "Ajuda contra o foco inimigo.",
+        "Lembrete Mortal": "Reduz a cura concedida pela equipe."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz toda a cura do Milio.",
+        "Véu da Banshee": "Bloqueia habilidades importantes.",
+        "Ampulheta de Zhonya": "Evita o burst após o engage."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra a cura.",
+        "Primeiro Ataque": "Punir antes que ele proteja o aliado.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "nami": {
+      "fraco_contra": [
+        "assassino",
+        "engaje",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "poke",
+        "cura",
+        "team_fight",
+        "CC"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Reduz o impacto da Bolha e da Ultimate.",
+        "Limiar da Noite": "Bloqueia a Bolha.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Excelente contra sua cura.",
+        "Véu da Banshee": "Bloqueia a Bolha.",
+        "Ampulheta de Zhonya": "Evita o follow-up da equipe inimiga."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Nami.",
+        "Incendiar (Feitiço)": "Reduz sua cura.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "nasus": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "dano_vida_maxima",
+        "CC"
+      ],
+      "forte_contra": [
+        "late game",
+        "lutador",
+        "tank_vida"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz bastante sua cura.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida alta.",
+        "Destruidor Divino": "Muito eficiente contra Nasus."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua sustentação.",
+        "Tormento de Liandry": "Excelente contra sua Vida.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Essencial contra sua cura.",
+        "Matador de Gigantes": "Excelente contra Nasus.",
+        "Conquistador": "Muito eficiente em lutas longas."
+      }
+    },
+    "orianna": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "controle_zona",
+        "poke"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia a Onda de Choque.",
+        "Anjo Guardião": "Ajuda contra o combo."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua Ultimate.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes do combo."
+      }
+    },
+    "ornn": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "tank_armadura",
+        "engaje",
+        "team_fight",
+        "CC",
+        "setup"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Destruidor Divino": "Muito eficiente contra Ornn.",
+        "Bandana de Mercúrio": "Ajuda contra seus controles."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Principal item contra Ornn.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica.",
+        "Morellonomicon": "Caso possua regeneração."
+      },
+      "runas": {
+        "Matador de Gigantes": "Excelente contra Ornn.",
+        "Lenda: Tenacidade": "Ajuda contra knock-ups.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "pyke": {
+      "fraco_contra": [
+        "CC",
+        "team_fight",
+        "tank_armadura",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "papel",
+        "execução",
+        "assassino",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Evita resets da Ultimate.",
+        "Limiar da Noite": "Bloqueia o gancho.",
+        "Bandana de Mercúrio": "Reduz o impacto do controle."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Cancela a execução da Ultimate.",
+        "Véu da Banshee": "Bloqueia o gancho.",
+        "Coroa da Rainha Despedaçada": "Reduz seu burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra Pyke.",
+        "Osso Revestido": "Reduz burst.",
+        "Conquistador": "Boa em lutas prolongadas."
+      }
+    },
+    "rakan": {
+      "fraco_contra": [
+        "poke",
+        "anti_cc",
+        "desengaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "engaje",
+        "team_fight",
+        "CC",
+        "setup"
+      ],
+      "itens_ad": {
+        "Bandana de Mercúrio": "Reduz o charme e o knock-up.",
+        "Limiar da Noite": "Bloqueia sua iniciação.",
+        "Espada do Rei Destruído": "Boa contra Rakan tanque."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia seu engage.",
+        "Ampulheta de Zhonya": "Evita o follow-up.",
+        "Tormento de Liandry": "Muito eficiente contra build tanque."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra Rakan.",
+        "Matador de Gigantes": "Caso faça build tanque.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "renekton": {
+      "fraco_contra": [
+        "poke",
+        "controle_zona",
+        "CC",
+        "late game",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "lutador",
+        "dano_explosivo",
+        "papel"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua cura da Fúria.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida elevada.",
+        "Anjo Guardião": "Ajuda a sobreviver ao combo."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua sustentação.",
+        "Tormento de Liandry": "Muito eficiente contra sua Vida.",
+        "Ampulheta de Zhonya": "Evita seu all-in."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Conquistador": "Muito eficiente em lutas longas.",
+        "Osso Revestido": "Reduz bastante seu burst."
+      }
+    },
+    "rumble": {
+      "fraco_contra": [
+        "mobilidade",
+        "assassino",
+        "poke"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu dano mágico.",
+        "Limiar da Noite": "Bloqueia o E.",
+        "Anjo Guardião": "Ajuda contra o burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o Arpão Elétrico.",
+        "Ampulheta de Zhonya": "Evita o dano do Equalizador.",
+        "Coroa da Rainha Despedaçada": "Reduz muito seu burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades.",
+        "Conquistador": "Bom em trocas prolongadas."
+      }
+    },
+    "ryze": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "CC"
+      ],
+      "forte_contra": [
+        "late game",
+        "team_fight",
+        "global_semiglobal"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra Ryze.",
+        "Limiar da Noite": "Bloqueia sua raiz.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Prisão Rúnica.",
+        "Ampulheta de Zhonya": "Evita o combo.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Ryze.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Primeiro Ataque": "Punir antes que escale."
+      }
+    },
+    "samira": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "poke"
+      ],
+      "forte_contra": [
+        "papel",
+        "team_fight",
+        "execução"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra resets.",
+        "Espada do Rei Destruído": "Muito eficiente em trocas.",
+        "Lembrete Mortal": "Reduz sua cura."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Cancela sua Ultimate.",
+        "Morellonomicon": "Reduz sua cura.",
+        "Coroa da Rainha Despedaçada": "Reduz seu burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Incendiar (Feitiço)": "Excelente contra a cura.",
+        "Conquistador": "Ótimo para lutas prolongadas."
+      }
+    },
+    "seraphine": {
+      "fraco_contra": [
+        "assassino",
+        "engaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "poke",
+        "cura",
+        "shild",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia o Encantar.",
+        "Bandana de Mercúrio": "Reduz o impacto dos controles."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o Encantar.",
+        "Morellonomicon": "Reduz sua cura.",
+        "Ampulheta de Zhonya": "Evita o burst da equipe."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente contra Seraphine.",
+        "Incendiar (Feitiço)": "Excelente contra a cura.",
+        "Transcendência": "Mais habilidades durante a luta."
+      }
+    },
+    "sett": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "controle_zona",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_vida",
+        "engaje",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz a cura da passiva e do W.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida elevada.",
+        "Destruidor Divino": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua sustentação.",
+        "Tormento de Liandry": "Derrete sua Vida máxima.",
+        "Ampulheta de Zhonya": "Evita o dano verdadeiro do W."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Matador de Gigantes": "Muito eficiente.",
+        "Conquistador": "Ótimo para lutas prolongadas."
+      }
+    },
+    "singed": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "dano_vida_maxima",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "tank_vida",
+        "desengaje",
+        "controle_zona",
+        "engaje"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz sua regeneração.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Bandana de Mercúrio": "Reduz o impacto do Arremesso."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Reduz sua cura.",
+        "Tormento de Liandry": "Excelente contra Singed.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua Ultimate.",
+        "Matador de Gigantes": "Muito eficiente.",
+        "Lenda: Tenacidade": "Ajuda contra o controle."
+      }
+    },
+    "sion": {
+      "fraco_contra": [
+        "dano_vida_maxima",
+        "poke",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "tank_armadura",
+        "engaje",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Principal item contra Sion.",
+        "Destruidor Divino": "Muito eficiente contra sua Vida.",
+        "Lembrete Mortal": "Reduz sua regeneração."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Principal item AP contra Sion.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica.",
+        "Morellonomicon": "Reduz sua sustentação."
+      },
+      "runas": {
+        "Matador de Gigantes": "Obrigatória contra Sion.",
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Ajuda contra seus controles."
+      }
+    },
+    "sivir": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "poke",
+        "late game",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu dano.",
+        "Espada do Rei Destruído": "Muito eficiente em trocas.",
+        "Limiar da Noite": "Ajuda contra o Ricochete inicial."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Véu da Banshee": "Bloqueia o Bumerangue.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o dano."
+      },
+      "runas": {
+        "Conquistador": "Excelente contra Sivir.",
+        "Osso Revestido": "Reduz burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "sona": {
+      "fraco_contra": [
+        "assassino",
+        "engaje",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "cura",
+        "shild",
+        "team_fight",
+        "poke"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz toda a cura da Sona.",
+        "Limiar da Noite": "Bloqueia a Ultimate.",
+        "Bandana de Mercúrio": "Reduz o tempo do atordoamento."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório contra Sona.",
+        "Véu da Banshee": "Bloqueia a Ultimate.",
+        "Ampulheta de Zhonya": "Evita o burst da equipe."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "soraka": {
+      "fraco_contra": [
+        "assassino",
+        "dano_explosivo",
+        "engaje"
+      ],
+      "forte_contra": [
+        "cura",
+        "team_fight",
+        "papel",
+        "poke"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Item obrigatório para reduzir sua cura.",
+        "Limiar da Noite": "Bloqueia o Silêncio.",
+        "Anjo Guardião": "Ajuda contra o foco da equipe inimiga."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório para reduzir sua cura.",
+        "Véu da Banshee": "Bloqueia o Silêncio.",
+        "Ampulheta de Zhonya": "Evita o burst da equipe."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Fundamental para cortar sua cura.",
+        "Primeiro Ataque": "Punir antes que consiga curar.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "swain": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "dano_vida_maxima"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "cura",
+        "tank_vida",
+        "controle_zona"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Reduz toda sua cura.",
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Bandana de Mercúrio": "Reduz o impacto do controle."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório contra Swain.",
+        "Tormento de Liandry": "Derrete sua Vida.",
+        "Cajado do Vazio": "Ignora sua Resistência Mágica."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua Ultimate.",
+        "Matador de Gigantes": "Muito eficiente.",
+        "Conquistador": "Ótimo em lutas prolongadas."
+      }
+    },
+    "syndra": {
+      "fraco_contra": [
+        "mobilidade",
+        "assassino",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "dano_explosivo",
+        "controle_zona",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra burst mágico.",
+        "Limiar da Noite": "Bloqueia seu combo.",
+        "Anjo Guardião": "Ajuda contra a Ultimate."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a primeira habilidade.",
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Ajuda contra o empurrão.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "thresh": {
+      "fraco_contra": [
+        "poke",
+        "anti_cc",
+        "desengaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "engaje",
+        "CC",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia completamente o Gancho.",
+        "Bandana de Mercúrio": "Reduz a duração dos controles.",
+        "Espada do Rei Destruído": "Boa contra Thresh tanque."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia o Gancho.",
+        "Tormento de Liandry": "Excelente contra build tanque.",
+        "Ampulheta de Zhonya": "Evita o follow-up."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra Thresh.",
+        "Matador de Gigantes": "Caso esteja tanque.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "tristana": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "CC"
+      ],
+      "forte_contra": [
+        "late game",
+        "papel",
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia sua Ultimate.",
+        "Espada do Rei Destruído": "Muito eficiente."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Véu da Banshee": "Bloqueia o salto.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano."
+      },
+      "runas": {
+        "Conquistador": "Excelente em trocas longas.",
+        "Osso Revestido": "Ajuda contra burst.",
+        "Lenda: Tenacidade": "Muito eficiente."
+      }
+    },
+    "twisted_fate": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "global_semiglobal",
+        "setup",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Carta Dourada.",
+        "Mandíbula de Malmortius": "Excelente contra seu burst mágico.",
+        "Anjo Guardião": "Ajuda contra picks."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Carta Dourada.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra o atordoamento.",
+        "Osso Revestido": "Reduz o burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "twitch": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "invisibilidade camuflagem",
+        "late game",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o Veneno inicial.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Véu da Banshee": "Bloqueia o Veneno.",
+        "Coroa da Rainha Despedaçada": "Reduz o dano inicial."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Conquistador": "Muito eficiente.",
+        "Lenda: Tenacidade": "Ajuda contra controles."
+      }
+    },
+    "urgot": {
+      "fraco_contra": [
+        "poke",
+        "mobilidade",
+        "dano_vida_maxima",
+        "CC"
+      ],
+      "forte_contra": [
+        "lutador",
+        "tank_vida",
+        "execução"
+      ],
+      "itens_ad": {
+        "Espada do Rei Destruído": "Excelente contra sua Vida.",
+        "Lembrete Mortal": "Reduz sua cura.",
+        "Destruidor Divino": "Muito eficiente."
+      },
+      "itens_ap": {
+        "Tormento de Liandry": "Derrete sua Vida.",
+        "Morellonomicon": "Reduz sua sustentação.",
+        "Ampulheta de Zhonya": "Evita sua Ultimate."
+      },
+      "runas": {
+        "Matador de Gigantes": "Excelente contra Urgot.",
+        "Conquistador": "Muito eficiente.",
+        "Incendiar (Feitiço)": "Ajuda contra sua cura."
+      }
+    },
+    "varus": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "poke",
+        "controle_zona",
+        "papel"
+      ],
+      "itens_ad": {
+        "Limiar da Noite": "Bloqueia a Corrente da Corrupção.",
+        "Anjo Guardião": "Excelente contra burst.",
+        "Bandana de Mercúrio": "Reduz o enraizamento."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua Ultimate.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra Varus.",
+        "Osso Revestido": "Reduz burst.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "vayne": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "controle_zona",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "tank_vida",
+        "late game",
+        "invisibilidade camuflagem"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia a Condenação.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Véu da Banshee": "Bloqueia a Condenação.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Conquistador": "Excelente em lutas longas.",
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Osso Revestido": "Ajuda contra burst."
+      }
+    },
+    "veigar": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "dano_explosivo",
+        "controle_zona",
+        "late game",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra seu burst mágico.",
+        "Limiar da Noite": "Bloqueia a Jaula dos Eventos.",
+        "Anjo Guardião": "Ajuda contra a Ultimate."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Jaula.",
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra a Jaula.",
+        "Osso Revestido": "Reduz o burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "vex": {
+      "fraco_contra": [
+        "poke",
+        "assassino",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "mobilidade",
+        "controle_zona",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra burst mágico.",
+        "Limiar da Noite": "Bloqueia sua Ultimate.",
+        "Anjo Guardião": "Ajuda contra resets."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Ultimate.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra o medo.",
+        "Osso Revestido": "Reduz burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "viktor": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "controle_zona",
+        "late game",
+        "poke"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra Viktor.",
+        "Limiar da Noite": "Bloqueia o Laser.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia habilidades importantes.",
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o dano."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes da escala."
+      }
+    },
+    "vladimir": {
+      "fraco_contra": [
+        "poke",
+        "CC"
+      ],
+      "forte_contra": [
+        "cura",
+        "late game",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Obrigatório contra Vladimir.",
+        "Anjo Guardião": "Ajuda contra burst.",
+        "Espada do Rei Destruído": "Boa em lutas longas."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório contra Vladimir.",
+        "Ampulheta de Zhonya": "Espera a Poça terminar.",
+        "Tormento de Liandry": "Excelente contra sua Vida."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Conquistador": "Muito eficiente.",
+        "Osso Revestido": "Ajuda no início."
+      }
+    },
+    "xayah": {
+      "fraco_contra": [
+        "engaje",
+        "assassino",
+        "CC"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "papel",
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia a Raiz.",
+        "Espada do Rei Destruído": "Muito eficiente em trocas."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Véu da Banshee": "Bloqueia a Raiz.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o dano."
+      },
+      "runas": {
+        "Conquistador": "Excelente.",
+        "Lenda: Tenacidade": "Ajuda contra a Raiz.",
+        "Osso Revestido": "Reduz burst."
+      }
+    },
+    "yasuo": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "tank_armadura"
+      ],
+      "forte_contra": [
+        "mobilidade",
+        "papel",
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra seu burst.",
+        "Limiar da Noite": "Bloqueia o Tornado.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o combo da Ultimate.",
+        "Véu da Banshee": "Bloqueia o Tornado.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra knock-up.",
+        "Osso Revestido": "Reduz burst.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "yone": {
+      "fraco_contra": [
+        "CC",
+        "controle_zona",
+        "dano_explosivo",
+        "poke"
+      ],
+      "forte_contra": [
+        "mobilidade",
+        "papel",
+        "dano_ataque"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia o Tornado.",
+        "Espada do Rei Destruído": "Muito eficiente."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita o combo da Ultimate.",
+        "Véu da Banshee": "Bloqueia o Tornado.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o burst."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Osso Revestido": "Excelente contra burst.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "yuumi": {
+      "fraco_contra": [
+        "engaje",
+        "dano_explosivo"
+      ],
+      "forte_contra": [
+        "cura",
+        "shild",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Obrigatório contra Yuumi.",
+        "Limiar da Noite": "Bloqueia o projétil do Q.",
+        "Anjo Guardião": "Ajuda contra o carry fortalecido."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Obrigatório contra Yuumi.",
+        "Véu da Banshee": "Bloqueia o Q.",
+        "Ampulheta de Zhonya": "Evita o follow-up."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente contra sua cura.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes da cura."
+      }
+    },
+    "zed": {
+      "fraco_contra": [
+        "CC",
+        "tank_armadura",
+        "dano_explosivo",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "assassino",
+        "papel",
+        "mobilidade"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Melhor item contra a Ultimate.",
+        "Limiar da Noite": "Bloqueia o combo inicial.",
+        "Placa Gargolítica": "Ajuda a sobreviver ao burst."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Counter direto da Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst.",
+        "Véu da Banshee": "Bloqueia a primeira habilidade."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Lenda: Tenacidade": "Ajuda contra controles.",
+        "Conquistador": "Muito eficiente."
+      }
+    },
+    "zeri": {
+      "fraco_contra": [
+        "CC",
+        "engaje",
+        "assassino",
+        "controle_zona"
+      ],
+      "forte_contra": [
+        "late game",
+        "mobilidade",
+        "papel"
+      ],
+      "itens_ad": {
+        "Anjo Guardião": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia habilidades importantes.",
+        "Espada do Rei Destruído": "Muito eficiente em duelos."
+      },
+      "itens_ap": {
+        "Ampulheta de Zhonya": "Evita seu burst.",
+        "Véu da Banshee": "Bloqueia sua habilidade principal.",
+        "Coroa da Rainha Despedaçada": "Reduz bastante o dano."
+      },
+      "runas": {
+        "Conquistador": "Excelente.",
+        "Lenda: Tenacidade": "Muito eficiente.",
+        "Osso Revestido": "Reduz burst."
+      }
+    },
+    "ziggs": {
+      "fraco_contra": [
+        "assassino",
+        "mobilidade",
+        "engaje"
+      ],
+      "forte_contra": [
+        "poke",
+        "controle_zona",
+        "team_fight",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia uma bomba importante.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia sua principal habilidade.",
+        "Ampulheta de Zhonya": "Evita a Ultimate.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o burst."
+      },
+      "runas": {
+        "Osso Revestido": "Excelente contra burst.",
+        "Transcendência": "Mais habilidades.",
+        "Primeiro Ataque": "Punir antes da escala."
+      }
+    },
+    "zilean": {
+      "fraco_contra": [
+        "assassino",
+        "engaje"
+      ],
+      "forte_contra": [
+        "team_fight",
+        "setup",
+        "imortalidade",
+        "poke"
+      ],
+      "itens_ad": {
+        "Lembrete Mortal": "Ajuda contra a cura após a Ultimate.",
+        "Limiar da Noite": "Bloqueia a bomba.",
+        "Anjo Guardião": "Excelente contra picks."
+      },
+      "itens_ap": {
+        "Morellonomicon": "Ajuda contra a recuperação de Vida.",
+        "Véu da Banshee": "Bloqueia a bomba.",
+        "Ampulheta de Zhonya": "Evita burst."
+      },
+      "runas": {
+        "Incendiar (Feitiço)": "Excelente para finalizar após a Ultimate.",
+        "Lenda: Tenacidade": "Ajuda contra o atordoamento.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "zoe": {
+      "fraco_contra": [
+        "mobilidade",
+        "assassino",
+        "anti_cc"
+      ],
+      "forte_contra": [
+        "poke",
+        "dano_explosivo",
+        "papel"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra burst.",
+        "Limiar da Noite": "Bloqueia a Bolha.",
+        "Anjo Guardião": "Ajuda contra burst."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Counter direto da Bolha.",
+        "Ampulheta de Zhonya": "Evita o combo.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra a Bolha.",
+        "Osso Revestido": "Muito eficiente.",
+        "Transcendência": "Mais habilidades."
+      }
+    },
+    "zyra": {
+      "fraco_contra": [
+        "assassino",
+        "engaje",
+        "mobilidade"
+      ],
+      "forte_contra": [
+        "controle_zona",
+        "poke",
+        "team_fight"
+      ],
+      "itens_ad": {
+        "Mandíbula de Malmortius": "Excelente contra dano mágico.",
+        "Limiar da Noite": "Bloqueia a Raiz.",
+        "Bandana de Mercúrio": "Reduz o tempo de controle."
+      },
+      "itens_ap": {
+        "Véu da Banshee": "Bloqueia a Raiz.",
+        "Ampulheta de Zhonya": "Evita o burst.",
+        "Coroa da Rainha Despedaçada": "Reduz muito o dano."
+      },
+      "runas": {
+        "Lenda: Tenacidade": "Excelente contra Zyra.",
+        "Osso Revestido": "Reduz burst.",
+        "Transcendência": "Mais habilidades."
+      }
+    }
+  }
+}

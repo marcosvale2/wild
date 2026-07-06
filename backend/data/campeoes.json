@@ -1,0 +1,2591 @@
+{
+  "aatrox": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "CC",
+      "dano_explosivo",
+      "dash_avanco",
+      "cura",
+      "mobilidade",
+      "lutador",
+      "team_fight"
+    ]
+  },
+  "ahri": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "poke",
+      "mobilidade",
+      "dash_avanco",
+      "dano_explosivo",
+      "CC",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "akali": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "evasao_ataque_basico",
+      "dash_avanco",
+      "dano_explosivo",
+      "mobilidade",
+      "invisibilidade_verdadeira",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "akshan": {
+    "rotas": [
+      "MID","ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "fragil",
+      "mobilidade",
+      "invisibilidade_verdadeira",
+      "assassino"
+    ]
+  },
+  "alistar": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "desengaje",
+      "tank_vida",
+      "dash_avanco",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "ambessa": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "engaje",
+      "dano_vida_maxima",
+      "dash_avanco",
+      "mobilidade",
+      "lutador",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "amumu": {
+    "rotas": [
+      "JG",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dash_avanco",
+      "controle_zona",
+      "lentidao_pesada",
+      "dano_vida_maxima",
+      "CC",
+      "tank_vida",
+      "tank_armadura",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "annie": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "controle_zona",
+      "CC",
+      "engaje",
+      "shild",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "ashe": {
+    "rotas": [
+      "ADC",
+      "SUP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "engaje",
+      "global_semiglobal",
+      "CC",
+      "poke",
+      "lentidao_pesada",
+      "fragil"
+    ]
+  },
+  "aurelion_sol": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "execucao",
+      "global_semiglobal",
+      "dano_vida_maxima",
+      "controle_zona",
+      "dash_avanco",
+      "team_fight",
+      "lentidao_pesada",
+      "fragil"
+    ]
+  },
+  "aurora": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "mobilidade",
+      "team_fight",
+      "dash_avanco",
+      "assassino",
+      "invisibilidade_verdadeira",
+      "dano_vida_maxima",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "bardo": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "cura",
+      "mobilidade",
+      "poke",
+      "controle_zona",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "blitzcrank": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "engaje",
+      "shild"
+    ]
+  },
+  "brand": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_vida_maxima",
+      "controle_zona",
+      "poke",
+      "dano_explosivo",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "braum": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "bloqueio_projetil",
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "dash_avanco",
+      "desengaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "caitlyn": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "CC",
+      "poke",
+      "dash_avanco",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "camille": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "controle_zona",
+      "tank_resistencia_magica",
+      "mobilidade",
+      "shild",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "cho'gath": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "lentidao_pesada",
+      "execucao",
+      "cura",
+      "controle_zona"
+    ]
+  },
+  "corki": {
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_verdadeiro",
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "dano_explosivo",
+      "poke",
+      "mobilidade",
+      "fragil"
+    ]
+  },
+  "darius": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "reduz_armadura",
+      "cura",
+      "execucao",
+      "lutador"
+    ]
+  },
+  "diana": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "assassino",
+      "team_fight",
+      "dash_avanco",
+      "shild",
+      "engaje",
+      "fragil"
+    ]
+  },
+  "dr.mundo": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_resistencia_magica",
+      "tank_armadura",
+      "cura",
+      "anti_cc",
+      "dano_vida_maxima"
+    ]
+  },
+  "draven": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "global_semiglobal",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "ekko": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "assassino",
+      "cura",
+      "shild",
+      "inalvejavel",
+      "blink_teletransporte",
+      "CC",
+      "fragil"
+    ]
+  },
+  "evelynn": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "camuflagem",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "ezreal": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "mobilidade",
+      "global_semiglobal",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "fiddlesticks": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_explosivo",
+      "dano_vida_maxima",
+      "controle_zona",
+      "engaje",
+      "cura",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "fiora": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "evasao_ataque_basico",
+      "dano_vida_maxima",
+      "mobilidade",
+      "cura",
+      "dash_avanco",
+      "anti_cc",
+      "lutador"
+    ]
+  },
+  "fizz": {
+    "rotas": [
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "dash_avanco",
+      "inalvejavel",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "galio": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_resistencia_magica",
+      "CC",
+      "provocacao_taunt",
+      "tank_armadura",
+      "anti_cc",
+      "engaje",
+      "dash_avanco",
+      "shild",
+      "global_semiglobal",
+      "team_fight"
+    ]
+  },
+  "garen": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "mobilidade",
+      "tank_resistencia_magica",
+      "execucao",
+      "lutador"
+    ]
+  },
+  "gnar": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "fragil",
+      "lutador",
+      "mobilidade",
+      "tank_vida",
+      "CC",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "gragas": {
+    "rotas": [
+      "JG",
+      "TOP",
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "CC",
+      "dano_explosivo",
+      "cura",
+      "dash_avanco",
+      "engaje",
+      "desengaje",
+      "poke",
+      "tank_vida"
+    ]
+  },
+  "graves": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "controle_zona",
+      "dano_explosivo",
+      "tank_armadura",
+      "mobilidade",
+      "dash_avanco"
+    ]
+  },
+  "gwen": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "dash_avanco",
+      "lutador",
+      "inalvejavel",
+      "cura",
+      "fragil"
+    ]
+  },
+  "hecarim": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "assassino",
+      "engaje",
+      "dash_avanco",
+      "cura",
+      "lutador",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "heimerdinger": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "controle_zona",
+      "poke",
+      "team_fight",
+      "CC",
+      "fragil"
+    ]
+  },
+  "irelia": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "cura",
+      "lutador"
+    ]
+  },
+  "janna": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "cura",
+      "CC",
+      "desengaje",
+      "mobilidade",
+      "fragil"
+    ]
+  },
+  "jarvan_iv": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "engaje",
+      "CC",
+      "controle_zona",
+      "dash_avanco",
+      "shild",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "jax": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_armadura",
+      "evasao_ataque_basico",
+      "velocidade_ataque",
+      "mobilidade",
+      "CC",
+      "engaje",
+      "inalvejavel",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "jayce": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "dash_avanco",
+      "dano_explosivo",
+      "mobilidade",
+      "lutador"
+    ]
+  },
+  "jhin": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "dano_explosivo",
+      "CC",
+      "poke",
+      "fragil"
+    ]
+  },
+  "jinx": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "global_semiglobal",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kai'sa": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "mobilidade",
+      "dash_avanco",
+      "velocidade_ataque",
+      "invisibilidade_verdadeira",
+      "shild",
+      "fragil"
+    ]
+  },
+  "kalista": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "engaje",
+      "team_fight",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "karma": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "shild",
+      "cura",
+      "mobilidade",
+      "CC",
+      "fragil"
+    ]
+  },
+  "kassadin": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "tank_resistencia_magica",
+      "assassino",
+      "dano_explosivo",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "katarina": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "blink_teletransporte",
+      "assassino",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kayle": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "velocidade_ataque",
+      "cura",
+      "imortalidade",
+      "fragil"
+    ]
+  },
+  "kayn": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "inalvejavel",
+      "cura",
+      "assassino",
+      "lutador",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "dano_explosivo"
+    ]
+  },
+  "kennen": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "mobilidade",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "kha'zix": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "assassino"
+    ]
+  },
+  "kindred": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "velocidade_ataque",
+      "mobilidade",
+      "imortalidade",
+      "fragil"
+    ]
+  },
+  "kogmaw": {
+    "rotas": [
+      "ADC"
+      
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "dano_vida_maxima",
+      "poke",
+      "fragil",
+      "reduz_armadura"
+    ]
+  },
+  "ksant": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "tank_vida",
+      "lutador",
+      "dash_avanco",
+      "CC",
+      "shild",
+      "dano_vida_maxima",
+      "engaje"
+    ]
+  },
+  "lee_sin": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "engaje",
+      "dash_avanco",
+      "shild",
+      "lutador"
+    ]
+  },
+  "leona": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "CC",
+      "desengaje",
+      "engaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "lillia": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_magico",
+      "dano_vida_maxima",
+      "mobilidade",
+      "CC",
+      "team_fight",
+      "poke",
+      "fragil"
+    ]
+  },
+  "lissandra": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "engaje",
+      "mobilidade",
+      "team_fight",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "lucian": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "dano_explosivo",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "lulu": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "CC",
+      "cura",
+      "velocidade_ataque",
+      "desengaje"
+    ]
+  },
+  "lux": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "global_semiglobal",
+      "shild",
+      "poke",
+      "fragil"
+    ]
+  },
+  "malphite": {
+    "rotas": [
+      "TOP",
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "tank_vida",
+      "CC",
+      "engaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "maokai": {
+    "rotas": [
+      "JG",
+      "SUP",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "CC",
+      "cura",
+      "poke",
+      "engaje",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "master_yi": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "inalvejavel",
+      "cura"
+    ]
+  },
+  "mel": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "desengaje",
+      "poke",
+      "dano_explosivo",
+      "escudo_de_feitico",
+      "fragil"
+    ]
+  },
+  "miss_fortune": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "dano_explosivo",
+      "poke",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "milio": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "shild",
+      "cura",
+      "anti_cc",
+      "poke",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "mordekaiser": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "shild",
+      "cura",
+      "lutador"
+    ]
+  },
+  "morgana": {
+    "rotas": [
+      "SUP",
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "tank_resistencia_magica",
+      "anti_cc",
+      "escudo_de_feitico",
+      "shild",
+      "controle_zona",
+      "poke",
+      "fragil"
+    ]
+  },
+  "nami": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "CC",
+      "poke",
+      "engaje",
+      "desengaje",
+      "fragil"
+    ]
+  },
+  "nasus": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "cura",
+      "lentidao_pesada",
+      "reduz_armadura",
+      "lutador"
+    ]
+  },
+  "nautilus": {
+    "rotas": [
+      "SUP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "CC",
+      "engaje",
+      "shild",
+
+      "team_fight"
+    ]
+  },
+  "nidalee": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "assassino",
+      "poke",
+      "mobilidade",
+      "cura",
+      "dano_explosivo",
+      "dash_avanco"
+    ]
+  },
+  "nilah": {
+    "rotas": [
+      "ADC",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "cura",
+      "shild",
+      "dash_avanco",
+      "mobilidade",
+      "evasao_ataque_basico",
+      "inalvejavel",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "nocturne": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "global_semiglobal",
+      "engaje",
+      "escudo_de_feitico",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "nunu_&_willump": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "cura",
+      "mobilidade",
+      "engaje",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "norra": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "poke",
+      "controle_zona",
+      "fragil",
+
+      "dano_explosivo",
+      "team_fight"
+    ]
+  },
+  "olaf": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "cura",
+      "anti_cc",
+      "lutador"
+    ]
+  },
+  "orianna": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "controle_zona",
+      "shild",
+      "CC",
+      "poke",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "ornn": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "tank_vida",
+      "CC",
+      "engaje",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "team_fight"
+    ]
+  },
+  "pantheon": {
+    "rotas": [
+      "JG",
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "bloqueio_projetil",
+      "engaje",
+      "inalvejavel",
+      "global_semiglobal",
+      "lutador"
+    ]
+  },
+  "poppy": {
+    "rotas": [
+      "JG",
+      "TOP",
+      "SUP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "anti_dash",
+      "tank_armadura",
+      "tank_vida",
+      "CC",
+      "shild",
+      "dash_avanco",
+      "dano_vida_maxima",
+      "desengaje",
+      "engaje"
+    ]
+  },
+  "pyke": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "camuflagem",
+      "CC",
+      "cura",
+      "execucao",
+      "assassino",
+      "dash_avanco",
+      "fragil"
+    ]
+  },
+  "rakan": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "CC",
+      "engaje",
+      "provocacao_taunt",
+      "shild",
+      "dash_avanco",
+      "cura",
+      "team_fight"
+    ]
+  },
+  "rammus": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "mobilidade",
+      "CC",
+      "provocacao_taunt",
+      "engaje",
+      "team_fight"
+    ]
+  },
+  "rell": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "engaje",
+      "CC",
+      "team_fight",
+      "reduz_armadura",
+      "shild",
+      "controle_zona"
+    ]
+  },
+  "renekton": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "tank_vida",
+      "CC",
+      "dash_avanco",
+      "cura",
+      "lutador"
+    ]
+  },
+  "rengar": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "camuflagem",
+      "reduz_armadura",
+      "mobilidade",
+      "cura",
+      "dash_avanco",
+      "assassino"
+    ]
+  },
+  "riven": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "mobilidade",
+      "CC",
+      "shild",
+      "dano_explosivo",
+      "dash_avanco",
+      "lutador"
+    ]
+  },
+  "rumble": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "shild",
+      "lentidao_pesada",
+      "controle_zona",
+      "team_fight"
+    ]
+  },
+  "ryze": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "global_semiglobal",
+      "fragil",
+      "dano_explosivo"
+    ]
+  },
+  "samira": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "mobilidade",
+      "cura",
+      "dano_explosivo",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "senna": {
+  "rotas": [
+    "SUP",
+    "ADC"
+  ],
+  "dano": [
+    "dano_fisico"
+  ],
+  "range": "longo",
+  "traits": [
+    "dano_ataque",
+    "cura",
+    "poke",
+    "CC",
+    "camuflagem",
+    "shild",
+    "global_semiglobal",
+    "fragil"
+  ]
+},
+  "seraphine": {
+    "rotas": [
+      "SUP",
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "shild",
+      "cura",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "sett": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "shild",
+      "engaje",
+      "dano_explosivo",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "shen": {
+    "rotas": [
+      "TOP",
+      "SUP",
+      "JG"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "shild",
+      "evasao_ataque_basico",
+      "engaje",
+      "dash_avanco",
+      "provocacao_taunt",
+      "dano_vida_maxima",
+      "global_semiglobal",
+      "team_fight"
+    ]
+  },
+  "shyvana": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "mobilidade",
+      "lutador"
+    ]
+  },
+  "singed": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "mobilidade",
+      "CC",
+      "anti_dash",
+      "controle_zona"
+    ]
+  },
+  "sion": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "imortalidade",
+      "engaje",
+      "shild"
+    ]
+  },
+  "sivir": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "velocidade_ataque",
+      "escudo_de_feitico",
+      "engaje",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "skarner": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "tank_vida",
+      "CC",
+      "controle_zona",
+      "tank_armadura",
+      "mobilidade",
+      "engaje",
+      "shild"
+    ]
+  },
+  "smolder": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "execucao",
+      "dano_vida_maxima",
+      "mobilidade",
+      "fragil",
+      "dash_avanco",
+      "team_fight"
+    ]
+  },
+  "sona": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "shild",
+      "mobilidade",
+      "CC",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "soraka": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "CC",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "swain": {
+    "rotas": [
+      "MID",
+      "SUP",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "tank_vida",
+      "cura",
+      "CC",
+      "team_fight"
+    ]
+  },
+  "syndra": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "controle_zona",
+      "poke",
+      "fragil"
+    ]
+  },
+  "talon": {
+    "rotas": [
+      "MID",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "mobilidade",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "taliyah": {
+    "rotas": [
+      "JG",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "anti_dash",
+      "controle_zona",
+      "mobilidade",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "teemo": {
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "poke",
+      "controle_zona",
+      "camuflagem",
+      "lentidao_pesada",
+      "mobilidade",
+      "dash_avanco",
+      "evasao_ataque_basico",
+      "fragil"
+    ]
+  },
+  "thresh": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "tank_armadura",
+      "CC",
+      "tank_vida",
+      "controle_zona",
+      "engaje",
+      "desengaje",
+      "shild",
+      "team_fight"
+    ]
+  },
+  "tristana": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "velocidade_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "tryndamere": {
+    "rotas": [
+      "TOP",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "cura",
+      "lentidao_pesada",
+      "dash_avanco",
+      "mobilidade",
+      "imortalidade"
+    ]
+  },
+  "twisted_fate": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "poke",
+      "velocidade_ataque",
+      "global_semiglobal",
+      "fragil"
+    ]
+  },
+  "twitch": {
+    "rotas": [
+      "ADC",
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "dano_explosivo",
+      "camuflagem",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "urgot": {
+    "rotas": [
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "tank_vida",
+      "dash_avanco",
+      "lentidao_pesada",
+      "dano_vida_maxima",
+      "execucao",
+      "shild",
+      "lutador"
+    ]
+  },
+  "varus": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "poke",
+      "dano_vida_maxima",
+      "CC",
+      "fragil"
+    ]
+  },
+  "vayne": {
+    "rotas": [
+      "ADC",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_verdadeiro"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "mobilidade",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "fragil"
+    ]
+  },
+  "veigar": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "execucao",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "velkoz": {
+    "rotas": [
+      "MID",
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "dano_explosivo",
+      "controle_zona",
+      "CC",
+      "fragil",
+      "team_fight"
+    ]
+  },
+  "vex": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "CC",
+      "anti_dash",
+      "mobilidade",
+      "engaje",
+      "shild",
+      "fragil"
+    ]
+  },
+  "vi": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_vida_maxima",
+      "reduz_armadura",
+      "mobilidade",
+      "dash_avanco",
+      "engaje",
+      "CC",
+      "shild"
+    ]
+  },
+  "viego": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dano_vida_maxima",
+      "cura",
+      "dash_avanco",
+      "mobilidade",
+      "camuflagem",
+      "inalvejavel",
+      "lutador",
+      "team_fight"
+    ]
+  },
+  "viktor": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "CC",
+      "dano_explosivo",
+      "controle_zona",
+      "shild",
+      "fragil"
+    ]
+  },
+  "vladimir": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "cura",
+      "inalvejavel",
+      "dano_explosivo",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "volibear": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "cura",
+      "shild",
+      "tank_vida",
+      "engaje"
+    ]
+  },
+  "warwick": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "cura",
+      "CC",
+      "dano_vida_maxima",
+      "mobilidade",
+      "engaje",
+      "lutador"
+    ]
+  },
+  "wukong": {
+    "rotas": [
+      "JG",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "mobilidade",
+      "dash_avanco",
+      "camuflagem",
+      "CC",
+      "engaje",
+      "team_fight",
+      "lutador"
+    ]
+  },
+  "xayah": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_ataque",
+      "CC",
+      "inalvejavel",
+      "controle_zona",
+      "fragil"
+    ]
+  },
+  "xin_zhao": {
+    "rotas": [
+      "JG"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "desengaje",
+      "mobilidade",
+      "dash_avanco",
+      "cura",
+      "engaje",
+      "bloqueio_projetil",
+      "inalvejavel",
+      "lutador"
+    ]
+  },
+  "yasuo": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "CC",
+      "bloqueio_projetil",
+      "mobilidade",
+      "shild"
+    ]
+  },
+  "yone": {
+    "rotas": [
+      "MID",
+      "TOP"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "dash_avanco",
+      "mobilidade",
+      "shild",
+      "CC"
+    ]
+  },
+  "yunara": {
+    "rotas": [
+      "ADC",
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_ataque",
+      "assassino",
+      "mobilidade",
+      "dash_avanco",
+      "evasao_ataque_basico",
+      "cura",
+      "shild",
+      "team_fight",
+      "engaje"
+    ]
+  },
+  "yuumi": {
+    "rotas": [
+      "SUP"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "cura",
+      "shild",
+      "inalvejavel",
+      "poke",
+      "CC",
+      "fragil"
+    ]
+  },
+  "zed": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_fisico"
+    ],
+    "range": "curto",
+    "traits": [
+      "dano_explosivo",
+      "mobilidade",
+      "poke",
+      "execucao",
+      "blink_teletransporte",
+      "assassino",
+      "fragil"
+    ]
+  },
+  "zeri": {
+    "rotas": [
+      "ADC"
+    ],
+    "dano": [
+      "dano_fisico",
+      "dano_magico"
+    ],
+    "range": "medio",
+    "traits": [
+      "dano_ataque",
+      "velocidade_ataque",
+      "mobilidade",
+      "dash_avanco",
+      "team_fight",
+      "fragil"
+    ]
+  },
+  "ziggs": {
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "poke",
+      "controle_zona",
+      "global_semiglobal",
+      "dano_explosivo",
+      "fragil"
+    ]
+  },
+  "zilean": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "shild",
+      "mobilidade",
+      "imortalidade",
+      "poke",
+      "fragil"
+    ]
+  },
+  "zoe": {
+    "rotas": [
+      "MID"
+    ],
+    "dano": [
+      "dano_magico",
+      "dano_verdadeiro"
+    ],
+    "range": "longo",
+    "traits": [
+      "dano_explosivo",
+      "poke",
+      "CC",
+      "blink_teletransporte",
+      "fragil"
+    ]
+  },
+  "zyra": {
+    "rotas": [
+      "SUP",
+      "MID"
+    ],
+    "dano": [
+      "dano_magico"
+    ],
+    "range": "longo",
+    "traits": [
+      "CC",
+      "controle_zona",
+      "lentidao_pesada",
+      "poke",
+      "fragil"
+    ]
+  }
+}

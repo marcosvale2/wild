@@ -1,0 +1,1390 @@
+{
+  "Aatrox": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "cura_alta",
+      "dash_avanco",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Ahri": {
+    "tags": [
+      "dano_magico",
+      "dano_verdadeiro",
+      "dano_explosivo",
+      "dash_avanco",
+      "cc_pesado",
+      "poke"
+    ]
+  },
+  "Akali": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "execucao"
+    ]
+  },
+  "Akshan": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dano_explosivo",
+      "dash_avanco",
+      "camuflagem",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Alistar": {
+    "tags": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "tank_vida",
+      "reducao_de_dano",
+      "cc_pesado",
+      "knockup_arremesso",
+      "engaje",
+      "dash_avanco"
+    ]
+  },
+  "Ambessa": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "focado_em_escudo",
+      "engaje"
+    ]
+  },
+  "Amumu": {
+    "tags": [
+      "tank_vida",
+      "tank_armadura",
+      "dano_magico",
+      "dano_vida_maxima",
+      "cc_pesado",
+      "engaje",
+      "dash_avanco"
+    ]
+  },
+  "Annie": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "cc_pesado",
+      "engaje",
+      "focado_em_escudo"
+    ]
+  },
+  "Ashe": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "lentidao_pesada",
+      "visao_revelacao",
+      "engaje",
+      "global_semiglobal",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Aurelion Sol": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "dano_vida_maxima",
+      "dano_em_area_aoe",
+      "stack_infinito",
+      "controle_de_zona",
+      "execucao",
+      "alta_mobilidade"
+    ]
+  },
+  "Aurora": {
+    "tags": [
+      "dano_magico",
+      "dano_vida_maxima",
+      "invisibilidade_verdadeira",
+      "controle_de_zona",
+      "dash_avanco"
+    ]
+  },
+  "Blitzcrank": {
+    "tags": [
+      "tank_vida",
+      "cc_pesado",
+      "knockup_arremesso",
+      "silencio",
+      "quebra_escudo",
+      "engaje"
+    ]
+  },
+  "Brand": {
+    "tags": [
+      "dano_magico",
+      "dano_vida_maxima",
+      "dano_em_area_aoe",
+      "dano_ao_longo_do_tempo_dot",
+      "cc_pesado"
+    ]
+  },
+  "Braum": {
+    "tags": [
+      "tank_vida",
+      "tank_armadura",
+      "bloqueio_projetil",
+      "cc_pesado",
+      "knockup_arremesso",
+      "desengaje",
+      "focado_em_escudo"
+    ]
+  },
+  "Caitlyn": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "poke",
+      "armadilha_trap",
+      "dash_avanco",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Camille": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dash_avanco",
+      "focado_em_escudo",
+      "engaje",
+      "controle_de_zona"
+    ]
+  },
+  "Cho'Gath": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_verdadeiro",
+      "knockup_arremesso",
+      "silencio",
+      "execucao",
+      "stack_infinito",
+      "cura_alta"
+    ]
+  },
+  "Corki": {
+    "tags": [
+      "dano_magico",
+      "dano_fisico",
+      "dano_continuo",
+      "poke",
+      "dash_avanco",
+      "dano_em_area_aoe"
+    ]
+  },
+  "Darius": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_ao_longo_do_tempo_dot",
+      "cura_alta",
+      "execucao",
+      "resets_de_habilidade"
+    ]
+  },
+  "Diana": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "engaje",
+      "focado_em_escudo"
+    ]
+  },
+  "Dr. Mundo": {
+    "tags": [
+      "tank_vida",
+      "tank_resistencia_magica",
+      "dano_magico",
+      "dano_vida_maxima",
+      "cura_alta",
+      "anti_cc",
+      "velocidade_movimento"
+    ]
+  },
+  "Draven": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dependente_ataque_basico",
+      "velocidade_movimento",
+      "global_semiglobal"
+    ]
+  },
+  "Ekko": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dash_avanco",
+      "blink_teletransporte",
+      "inalvejavel",
+      "cura_alta",
+      "focado_em_escudo"
+    ]
+  },
+  "Evelynn": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "camuflagem",
+      "execucao",
+      "inalvejavel",
+      "cura_alta"
+    ]
+  },
+  "Ezreal": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "poke",
+      "blink_teletransporte",
+      "global_semiglobal"
+    ]
+  },
+  "Fiddlesticks": {
+    "tags": [
+      "dano_magico",
+      "dano_em_area_aoe",
+      "dano_vida_maxima",
+      "cura_alta",
+      "silencio",
+      "engaje"
+    ]
+  },
+  "Fiora": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_vida_maxima",
+      "dash_avanco",
+      "evasao_ataque_basico",
+      "anti_cc",
+      "cura_alta",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Fizz": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dash_avanco",
+      "inalvejavel",
+      "knockup_arremesso"
+    ]
+  },
+  "Galio": {
+    "tags": [
+      "tank_resistencia_magica",
+      "tank_vida",
+      "dano_magico",
+      "cc_pesado",
+      "provocacao_taunt",
+      "knockup_arremesso",
+      "dash_avanco",
+      "global_semiglobal",
+      "reducao_de_dano"
+    ]
+  },
+  "Garen": {
+    "tags": [
+      "tank_vida",
+      "tank_armadura",
+      "dano_fisico",
+      "dano_verdadeiro",
+      "silencio",
+      "reducao_de_dano",
+      "velocidade_movimento",
+      "execucao"
+    ]
+  },
+  "Gnar": {
+    "tags": [
+      "dano_fisico",
+      "dano_vida_maxima",
+      "poke",
+      "dash_avanco",
+      "tank_vida",
+      "cc_pesado",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Gragas": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "tank_vida",
+      "cura_alta",
+      "dash_avanco",
+      "knockup_arremesso",
+      "desengaje",
+      "reducao_de_dano"
+    ]
+  },
+  "Graves": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "tank_armadura",
+      "dash_avanco",
+      "controle_de_zona",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Gwen": {
+    "tags": [
+      "dano_magico",
+      "dano_verdadeiro",
+      "dano_vida_maxima",
+      "dano_continuo",
+      "dash_avanco",
+      "inalvejavel",
+      "cura_alta"
+    ]
+  },
+  "Hecarim": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "velocidade_movimento",
+      "dash_avanco",
+      "cura_alta",
+      "cc_pesado",
+      "engaje",
+      "dano_em_area_aoe"
+    ]
+  },
+  "Heimerdinger": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "controle_de_zona",
+      "poke",
+      "cc_pesado"
+    ]
+  },
+  "Irelia": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_continuo",
+      "dash_avanco",
+      "cura_alta",
+      "reducao_de_dano",
+      "cc_pesado",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Janna": {
+    "tags": [
+      "focado_em_escudo",
+      "cura_alta",
+      "desengaje",
+      "knockup_arremesso",
+      "velocidade_movimento"
+    ]
+  },
+  "Jarvan IV": {
+    "tags": [
+      "dano_fisico",
+      "dano_vida_maxima",
+      "dash_avanco",
+      "knockup_arremesso",
+      "criacao_terreno",
+      "engaje",
+      "focado_em_escudo"
+    ]
+  },
+  "Jax": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_continuo",
+      "dash_avanco",
+      "evasao_ataque_basico",
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Jayce": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "poke",
+      "dash_avanco",
+      "velocidade_movimento"
+    ]
+  },
+  "Jhin": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_vida_maxima",
+      "poke",
+      "velocidade_movimento",
+      "armadilha_trap"
+    ]
+  },
+  "Jinx": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dano_em_area_aoe",
+      "velocidade_movimento",
+      "global_semiglobal",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Kai'Sa": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_vida_maxima",
+      "dano_explosivo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "focado_em_escudo",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Kalista": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dash_avanco",
+      "engaje",
+      "visao_revelacao",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Karma": {
+    "tags": [
+      "dano_magico",
+      "poke",
+      "focado_em_escudo",
+      "velocidade_movimento",
+      "cura_alta"
+    ]
+  },
+  "Kassadin": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "blink_teletransporte",
+      "reducao_de_dano",
+      "cc_pesado"
+    ]
+  },
+  "Katarina": {
+    "tags": [
+      "dano_magico",
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "blink_teletransporte",
+      "resets_de_habilidade",
+      "corta_cura_nativo"
+    ]
+  },
+  "Kayle": {
+    "tags": [
+      "dano_magico",
+      "dano_fisico",
+      "dano_continuo",
+      "cura_alta",
+      "imortalidade",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Kayn": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_vida_maxima",
+      "cura_alta",
+      "dash_avanco",
+      "inalvejavel",
+      "alta_mobilidade"
+    ]
+  },
+  "Kennen": {
+    "tags": [
+      "dano_magico",
+      "dano_em_area_aoe",
+      "velocidade_movimento",
+      "cc_pesado",
+      "engaje"
+    ]
+  },
+  "Kha'Zix": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "cura_alta"
+    ]
+  },
+  "Kindred": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dano_vida_maxima",
+      "dash_avanco",
+      "imortalidade",
+      "stack_infinito",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Lee Sin": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "focado_em_escudo",
+      "cura_alta",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Leona": {
+    "tags": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "reducao_de_dano",
+      "cc_pesado",
+      "dash_avanco",
+      "engaje"
+    ]
+  },
+  "Lillia": {
+    "tags": [
+      "dano_magico",
+      "dano_verdadeiro",
+      "dano_vida_maxima",
+      "dano_ao_longo_do_tempo_dot",
+      "velocidade_movimento",
+      "cc_pesado"
+    ]
+  },
+  "Lissandra": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "cc_pesado",
+      "engaje",
+      "inalvejavel"
+    ]
+  },
+  "Lucian": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Lulu": {
+    "tags": [
+      "focado_em_escudo",
+      "cura_alta",
+      "velocidade_movimento",
+      "cc_pesado",
+      "desengaje",
+      "knockup_arremesso"
+    ]
+  },
+  "Lux": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "poke",
+      "focado_em_escudo",
+      "cc_pesado",
+      "global_semiglobal"
+    ]
+  },
+  "Malphite": {
+    "tags": [
+      "tank_armadura",
+      "dano_magico",
+      "focado_em_escudo",
+      "dash_avanco",
+      "knockup_arremesso",
+      "engaje",
+      "lentidao_pesada"
+    ]
+  },
+  "Maokai": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_vida_maxima",
+      "cura_alta",
+      "dash_avanco",
+      "cc_pesado",
+      "engaje",
+      "controle_de_zona",
+      "armadilha_trap"
+    ]
+  },
+  "Master Yi": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_continuo",
+      "dash_avanco",
+      "inalvejavel",
+      "cura_alta",
+      "anti_cc",
+      "resets_de_habilidade",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Miss Fortune": {
+    "tags": [
+      "dano_fisico",
+      "dano_em_area_aoe",
+      "dano_explosivo",
+      "velocidade_movimento",
+      "poke"
+    ]
+  },
+  "Milio": {
+    "tags": [
+      "focado_em_escudo",
+      "cura_alta",
+      "anti_cc",
+      "desengaje"
+    ]
+  },
+  "Mordekaiser": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "dano_vida_maxima",
+      "focado_em_escudo",
+      "cura_alta",
+      "controle_de_zona",
+      "supressao"
+    ]
+  },
+  "Morgana": {
+    "tags": [
+      "dano_magico",
+      "dano_ao_longo_do_tempo_dot",
+      "cc_pesado",
+      "escudo_de_feitico",
+      "anti_cc"
+    ]
+  },
+  "Nami": {
+    "tags": [
+      "cura_alta",
+      "knockup_arremesso",
+      "desengaje",
+      "engaje",
+      "velocidade_movimento"
+    ]
+  },
+  "Nasus": {
+    "tags": [
+      "dano_fisico",
+      "tank_vida",
+      "stack_infinito",
+      "cura_alta",
+      "lentidao_pesada",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Nautilus": {
+    "tags": [
+      "tank_vida",
+      "tank_armadura",
+      "focado_em_escudo",
+      "dash_avanco",
+      "cc_pesado",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Nilah": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "evasao_ataque_basico",
+      "cura_alta",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Nocturne": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "escudo_de_feitico",
+      "cc_pesado",
+      "global_semiglobal",
+      "engaje",
+      "dependente_ataque_basico"
+    ]
+  },
+  "nunu_&_willump": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_verdadeiro",
+      "cura_alta",
+      "velocidade_movimento",
+      "cc_pesado",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Olaf": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_continuo",
+      "cura_alta",
+      "anti_cc",
+      "velocidade_movimento",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Orianna": {
+    "tags": [
+      "dano_magico",
+      "dano_em_area_aoe",
+      "focado_em_escudo",
+      "velocidade_movimento",
+      "controle_de_zona",
+      "knockup_arremesso"
+    ]
+  },
+  "Ornn": {
+    "tags": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "tank_vida",
+      "dano_magico",
+      "dano_vida_maxima",
+      "dash_avanco",
+      "knockup_arremesso",
+      "criacao_terreno",
+      "engaje"
+    ]
+  },
+  "Pantheon": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "cc_pesado",
+      "global_semiglobal",
+      "engaje"
+    ]
+  },
+  "Poppy": {
+    "tags": [
+      "tank_armadura",
+      "tank_resistencia_magica",
+      "dano_fisico",
+      "dano_vida_maxima",
+      "focado_em_escudo",
+      "dash_avanco",
+      "anti_dash",
+      "knockup_arremesso",
+      "engaje",
+      "desengaje"
+    ]
+  },
+  "Pyke": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "camuflagem",
+      "cura_alta",
+      "cc_pesado",
+      "execucao",
+      "resets_de_habilidade"
+    ]
+  },
+  "Rakan": {
+    "tags": [
+      "tank_vida",
+      "focado_em_escudo",
+      "cura_alta",
+      "dash_avanco",
+      "knockup_arremesso",
+      "provocacao_taunt",
+      "engaje"
+    ]
+  },
+  "Rammus": {
+    "tags": [
+      "tank_armadura",
+      "dano_magico",
+      "velocidade_movimento",
+      "provocacao_taunt",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Renekton": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "cura_alta",
+      "quebra_escudo",
+      "cc_pesado",
+      "tank_vida"
+    ]
+  },
+  "Rengar": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dash_avanco",
+      "camuflagem",
+      "cura_alta",
+      "anti_cc"
+    ]
+  },
+  "Riven": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "focado_em_escudo",
+      "cc_pesado",
+      "knockup_arremesso"
+    ]
+  },
+  "Rumble": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "dano_vida_maxima",
+      "focado_em_escudo",
+      "controle_de_zona",
+      "dano_em_area_aoe"
+    ]
+  },
+  "Ryze": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "velocidade_movimento",
+      "cc_pesado",
+      "global_semiglobal"
+    ]
+  },
+  "Samira": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "cura_alta",
+      "resets_de_habilidade"
+    ]
+  },
+  "Seraphine": {
+    "tags": [
+      "dano_magico",
+      "dano_em_area_aoe",
+      "focado_em_escudo",
+      "cura_alta",
+      "cc_pesado",
+      "controle_de_zona",
+      "engaje"
+    ]
+  },
+  "Sett": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "tank_vida",
+      "cura_alta",
+      "focado_em_escudo",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Shen": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_vida_maxima",
+      "focado_em_escudo",
+      "dash_avanco",
+      "provocacao_taunt",
+      "evasao_ataque_basico",
+      "global_semiglobal"
+    ]
+  },
+  "Shyvana": {
+    "tags": [
+      "dano_magico",
+      "dano_fisico",
+      "dano_vida_maxima",
+      "dano_em_area_aoe",
+      "velocidade_movimento",
+      "dash_avanco",
+      "engaje"
+    ]
+  },
+  "Singed": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_ao_longo_do_tempo_dot",
+      "velocidade_movimento",
+      "knockup_arremesso",
+      "controle_de_zona"
+    ]
+  },
+  "Sion": {
+    "tags": [
+      "tank_vida",
+      "dano_fisico",
+      "dano_vida_maxima",
+      "stack_infinito",
+      "focado_em_escudo",
+      "knockup_arremesso",
+      "engaje",
+      "global_semiglobal"
+    ]
+  },
+  "Sivir": {
+    "tags": [
+      "dano_fisico",
+      "dano_em_area_aoe",
+      "dano_continuo",
+      "escudo_de_feitico",
+      "velocidade_movimento",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Skarner": {
+    "tags": [
+      "tank_vida",
+      "focado_em_escudo",
+      "velocidade_movimento",
+      "cc_pesado",
+      "supressao",
+      "engaje"
+    ]
+  },
+  "Sona": {
+    "tags": [
+      "dano_magico",
+      "cura_alta",
+      "focado_em_escudo",
+      "velocidade_movimento",
+      "cc_pesado",
+      "engaje"
+    ]
+  },
+  "Soraka": {
+    "tags": [
+      "cura_alta",
+      "velocidade_movimento",
+      "silencio",
+      "global_semiglobal"
+    ]
+  },
+  "Swain": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_continuo",
+      "dano_em_area_aoe",
+      "cura_alta",
+      "stack_infinito",
+      "cc_pesado",
+      "visao_revelacao"
+    ]
+  },
+  "Syndra": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "poke",
+      "knockup_arremesso",
+      "controle_de_zona",
+      "execucao"
+    ]
+  },
+  "Talon": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_ao_longo_do_tempo_dot",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "criacao_terreno"
+    ]
+  },
+  "Thresh": {
+    "tags": [
+      "tank_armadura",
+      "focado_em_escudo",
+      "dash_avanco",
+      "cc_pesado",
+      "knockup_arremesso",
+      "engaje",
+      "desengaje",
+      "stack_infinito"
+    ]
+  },
+  "Tristana": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_continuo",
+      "dash_avanco",
+      "resets_de_habilidade",
+      "desengaje",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Tryndamere": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dash_avanco",
+      "cura_alta",
+      "imortalidade",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Twisted Fate": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "cc_pesado",
+      "global_semiglobal",
+      "visao_revelacao"
+    ]
+  },
+  "Twitch": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_continuo",
+      "dano_verdadeiro",
+      "dano_em_area_aoe",
+      "camuflagem",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Urgot": {
+    "tags": [
+      "tank_vida",
+      "dano_fisico",
+      "dano_vida_maxima",
+      "dano_continuo",
+      "focado_em_escudo",
+      "dash_avanco",
+      "knockup_arremesso",
+      "execucao"
+    ]
+  },
+  "Varus": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_vida_maxima",
+      "poke",
+      "cc_pesado",
+      "corta_cura_nativo"
+    ]
+  },
+  "Vayne": {
+    "tags": [
+      "dano_fisico",
+      "dano_verdadeiro",
+      "dano_vida_maxima",
+      "dano_continuo",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "cc_pesado",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Veigar": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "stack_infinito",
+      "cc_pesado",
+      "controle_de_zona",
+      "execucao"
+    ]
+  },
+  "Vex": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "focado_em_escudo",
+      "dash_avanco",
+      "anti_dash",
+      "cc_pesado",
+      "engaje",
+      "resets_de_habilidade"
+    ]
+  },
+  "Vi": {
+    "tags": [
+      "dano_fisico",
+      "dano_vida_maxima",
+      "focado_em_escudo",
+      "dash_avanco",
+      "knockup_arremesso",
+      "anti_cc",
+      "engaje"
+    ]
+  },
+  "Viego": {
+    "tags": [
+      "dano_fisico",
+      "dano_vida_maxima",
+      "dano_continuo",
+      "dash_avanco",
+      "camuflagem",
+      "cura_alta",
+      "resets_de_habilidade",
+      "inalvejavel",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Viktor": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "dano_explosivo",
+      "focado_em_escudo",
+      "velocidade_movimento",
+      "controle_de_zona",
+      "silencio"
+    ]
+  },
+  "Vladimir": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "tank_vida",
+      "cura_alta",
+      "inalvejavel",
+      "dano_em_area_aoe"
+    ]
+  },
+  "Volibear": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "tank_armadura",
+      "focado_em_escudo",
+      "cura_alta",
+      "velocidade_movimento",
+      "dash_avanco",
+      "cc_pesado"
+    ]
+  },
+  "Warwick": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_vida_maxima",
+      "tank_vida",
+      "cura_alta",
+      "velocidade_movimento",
+      "dash_avanco",
+      "supressao",
+      "reducao_de_dano"
+    ]
+  },
+  "Wukong": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "tank_armadura",
+      "dash_avanco",
+      "invisibilidade_verdadeira",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Xayah": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "dano_em_area_aoe",
+      "inalvejavel",
+      "cc_pesado",
+      "controle_de_zona",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Xerath": {
+    "tags": [
+      "dano_magico",
+      "poke",
+      "dano_em_area_aoe",
+      "cc_pesado",
+      "global_semiglobal",
+      "controle_de_zona"
+    ]
+  },
+  "Xin Zhao": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "dash_avanco",
+      "cura_alta",
+      "knockup_arremesso",
+      "bloqueio_projetil",
+      "engaje",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Yasuo": {
+    "tags": [
+      "dano_fisico",
+      "dano_continuo",
+      "focado_em_escudo",
+      "dash_avanco",
+      "bloqueio_projetil",
+      "knockup_arremesso",
+      "engaje",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Yone": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_continuo",
+      "dano_explosivo",
+      "focado_em_escudo",
+      "dash_avanco",
+      "knockup_arremesso",
+      "engaje",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Yorick": {
+    "tags": [
+      "dano_fisico",
+      "tank_vida",
+      "cura_alta",
+      "criacao_terreno",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Yuumi": {
+    "tags": [
+      "dano_magico",
+      "cura_alta",
+      "focado_em_escudo",
+      "inalvejavel",
+      "velocidade_movimento",
+      "cc_pesado"
+    ]
+  },
+  "Zac": {
+    "tags": [
+      "tank_vida",
+      "dano_magico",
+      "dano_vida_maxima",
+      "cura_alta",
+      "dash_avanco",
+      "knockup_arremesso",
+      "engaje"
+    ]
+  },
+  "Zed": {
+    "tags": [
+      "dano_fisico",
+      "dano_explosivo",
+      "blink_teletransporte",
+      "inalvejavel"
+    ]
+  },
+  "Zeri": {
+    "tags": [
+      "dano_fisico",
+      "dano_magico",
+      "dano_continuo",
+      "dano_em_area_aoe",
+      "dash_avanco",
+      "velocidade_movimento",
+      "dependente_ataque_basico"
+    ]
+  },
+  "Ziggs": {
+    "tags": [
+      "dano_magico",
+      "poke",
+      "dano_em_area_aoe",
+      "criacao_terreno",
+      "execucao",
+      "controle_de_zona",
+      "global_semiglobal"
+    ]
+  },
+  "Zilean": {
+    "tags": [
+      "dano_magico",
+      "dano_em_area_aoe",
+      "velocidade_movimento",
+      "cc_pesado",
+      "imortalidade"
+    ]
+  },
+  "Zoe": {
+    "tags": [
+      "dano_magico",
+      "dano_explosivo",
+      "poke",
+      "blink_teletransporte",
+      "cc_pesado"
+    ]
+  },
+  "Zyra": {
+    "tags": [
+      "dano_magico",
+      "dano_continuo",
+      "dano_em_area_aoe",
+      "cc_pesado",
+      "knockup_arremesso",
+      "controle_de_zona"
+    ]
+  }
+}
